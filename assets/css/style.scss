@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
+a {
+  color: $body-link-color;
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
