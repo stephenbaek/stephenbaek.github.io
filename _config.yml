@@ -1,2 +1,10 @@
 remote_theme: stephenbaek/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
 title: stephenbaek
