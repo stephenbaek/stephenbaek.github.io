@@ -33,28 +33,28 @@ Thesis: Nonlinear Analysis of the Space of Human Body Shapes and Its Application
 Thesis: A Modeling Method for 3D Face Model Using Single 2D Front-View Image (Best Thesis Award)
 
 # Honors & Awards
-- Best Paper Award from International Conference on Maintenance and Rehabilitation of Constructed Infrastructure Facilities, 2017.
-- Most Cited Articles in Computer-Aided Design since 2011, Elsevier, 2016.
-- Best Paper Award from 2015 Annual Conference of the Society of CAD/CAM Engineers, 2015.
-- Best Paper Award from 2014 Summer Conference of the Society of CAD/CAM Engineers, 2014.
-- Bronze Prize from 15th Korea CAD/CAM Software Competition, 2014.
-- Grand Prize from the 1st Delcam Korea & the Society of CAD/CAM Engineers Best Graduate Thesis Awards, 2014.
-- Best Paper Award from 2014 Annual Conference of the Society of CAD/CAM Engineers, 2014.
-- Best Student Paper from 2014 Annual Conference of the Society of CAD/CAM Engineers, 2014.
-- Best Ph.D. Thesis from the School of Mechanical and Aerospace Engineering at Seoul National University, 2014.
-- Presidential Postdoc Fellowship from the President of Republic of Korea, 2013–2015.
-- Top 25 Hottest Articles Published in Computer-Aided Design in 2012, Elsevier, 2012.
-- Bronze Prize from 13th Korea CAD/CAM Software Competition, 2012.
-- Global Ph.D. Fellowship from the Korean Ministry of Education, 2011–2013.
-- Best Paper of the Year from Transactions of the Society of CAD/CAM Engineers, 2011.
-- Best Paper of the Year from Transactions of the Society of CAD/CAM Engineers, 2010.
-- Bronze Medal from 2009 Korea Software Awards, 2010.
-- Best Bachelor’s Thesis from the School of Mechanical and Aerospace Engineering at Seoul National University, 2008.
-- Outstanding Design Award from Seoul National University Robot Competition, 2008.
-- Best Product Development Award from Seoul National University CAD/CAM Contest, 2007.
-- Award for Appreciation in 2007 School Retreat Program from the School of Mechanical and Aerospace Engineering at Seoul National University, 2007.
-- Outstanding Design Award from Seoul National University Mechanical Design Contest, 2005.
-- National Science and Engineering Scholarship from the Korean Ministry of Education, 2005-2009.
+- **Best Paper Award** from International Conference on Maintenance and Rehabilitation of Constructed Infrastructure Facilities, 2017.
+- **Most Cited Articles** in Computer-Aided Design since 2011, Elsevier, 2016.
+- **Best Paper Award** from 2015 Annual Conference of the Society of CAD/CAM Engineers, 2015.
+- **Best Paper Award** from 2014 Summer Conference of the Society of CAD/CAM Engineers, 2014.
+- **Bronze Prize** from 15th Korea CAD/CAM Software Competition, 2014.
+- **Grand Prize** from the 1st Delcam Korea & the Society of CAD/CAM Engineers Best Graduate Thesis Awards, 2014.
+- **Best Paper Award** from 2014 Annual Conference of the Society of CAD/CAM Engineers, 2014.
+- **Best Student Paper** from 2014 Annual Conference of the Society of CAD/CAM Engineers, 2014.
+- **Best Ph.D. Thesis** from the School of Mechanical and Aerospace Engineering at Seoul National University, 2014.
+- **Presidential Postdoc Fellowship** from the President of Republic of Korea, 2013–2015.
+- **Top 25 Hottest Articles** Published in Computer-Aided Design in 2012, Elsevier, 2012.
+- **Bronze Prize** from 13th Korea CAD/CAM Software Competition, 2012.
+- **Global Ph.D. Fellowship** from the Korean Ministry of Education, 2011–2013.
+- **Best Paper of the Year** from Transactions of the Society of CAD/CAM Engineers, 2011.
+- **Best Paper of the Year** from Transactions of the Society of CAD/CAM Engineers, 2010.
+- **Bronze Medal** from 2009 Korea Software Awards, 2010.
+- **Best Bachelor’s Thesis** from the School of Mechanical and Aerospace Engineering at Seoul National University, 2008.
+- **Outstanding Design Award** from Seoul National University Robot Competition, 2008.
+- **Best Product Development Award** from Seoul National University CAD/CAM Contest, 2007.
+- **Award for Appreciation** in 2007 School Retreat Program from the School of Mechanical and Aerospace Engineering at Seoul National University, 2007.
+- **Outstanding Design Award** from Seoul National University Mechanical Design Contest, 2005.
+- **National Science and Engineering Scholarship** from the Korean Ministry of Education, 2005-2009.
 
 
 # Curriculum Vitae

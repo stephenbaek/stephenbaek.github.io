@@ -24,9 +24,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  stephenbaek
 
+author:
+  name: Stephen Baek
+  url:  http://www.stephenbaek.com
+  email: mail@stephenbaek.com
+
 # Build settings
 markdown: kramdown
-#theme: minima
 plugins:
   - jekyll-feed
 
