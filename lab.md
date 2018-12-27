@@ -5,6 +5,7 @@ author: "stephenbaek"
 permalink: /lab/
 ---
 
+<!--
 <nav style="position: fixed;  top: 20px; right: 10px" role="navigation">
 	<div>
 	  <ul>
@@ -15,7 +16,7 @@ permalink: /lab/
 
 	</div>
 </nav>
-
+-->
 
 # About Us
 The Visual Intelligence Laboratory is a research group I direct at the University of Iowa.
