@@ -9,7 +9,7 @@ categories: projects
 # Shape Matters: Evidence from Machine Learning on Body Shape-Income Relationship
 
 <center>
-<b>Suyong Song <sup>1</sup></b> and <b>Stephen Baek <sup>2</sup></b><br/>
+<b><span style="font-size:larger;">Suyong Song</span> <sup>1</sup></b> and <b><span style="font-size:larger;">Stephen Baek</span> <sup>2</sup></b><br/>
 <sup>1</sup> Department of Economics, The University of Iowa<br/>
 <sup>2</sup> Department of Industrial and Systems Engineering, The University of Iowa<br/>
 {suyong-song, stephen-baek} (at) uiowa (dot) edu
