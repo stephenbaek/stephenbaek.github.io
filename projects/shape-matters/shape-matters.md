@@ -25,3 +25,56 @@ We show there are significant nonclassical reporting errors in the reported heig
 We use the graphical autoencoder built on deep machine learning to obtain intrinsic features consisting of human body shapes and estimate the relation between body shapes and family income. We also take into account a possible issue of endogenous body shapes by utilizing proxy variables and control functions approaches.  The estimation results show that there is a statistically significant relationship between physical appearance and family income and the associations are different across the gender. This supports the hypothesis on the physical attractiveness premium in the labor market outcomes and its heterogeneity across the gender. Our findings also highlight the importance of correctly measuring body shapes to provide adequate public policies for the healthcare.
 
 **Keywords:**  Physical attractiveness premium, non-Euclidean data, deep machine learning,  graphical autoencoder
+
+<br/>&nbsp;
+
+![](/projects/shape-matters/img/summary.png)
+<b>Figure 1.</b> Summary of the estimation results for family income equation. Estimated coefficients and bootstrapped 90% confidence bands are reported. The left panel presents results from the conventional body measures and the right panel reports results from the deep-learned body parameters through the graphical autoencoder.
+
+<br/>&nbsp;
+
+![](/projects/shape-matters/img/reporting_error_height2.png)
+![](/projects/shape-matters/img/reporting_error_weight2.png)
+<b>Figure 2.</b> Conditional expectation of the reporting errors in height conditional on the true height (<i>top</i>) and weight conditional on the true weight (<i>bottom</i>).
+
+<br/>&nbsp;
+
+![](/projects/shape-matters/img/shape_param.png)
+<b>Figure 3.</b> Body shape parameters derived from the graphical autoencoder for male (<i>left</i>) and female (<i>right</i>). 3D body shape models are arranged in accordance with their body shape parameters, with increments of -3 std., -1.5 std., 0, 1.5 std., and 3 std. with respect to the mean in each direction.
+
+<br/>&nbsp;
+
+### Publications
+
+#### Journal Publications
+
+0. **Shape matters: Evidences from machine learning on body shape-income relationship**<br/>
+Baek, S. & Song, S.<br/>
+*Working Paper*
+{:reversed="reversed"}
+
+
+#### Conference Proceedings/Abstracts
+
+0. **Shape matters: Evidences from machine learning on body shape-income relationship**<br/>
+Baek, S. & Song, S.<br/>
+In *88th Southern Economic Association Annual Meetings (SEA2018), Washington, D.C., United States, November, 2018.*
+ 
+0. **Shape matters: Evidences from machine learning on body shape-income relationship**<br/>
+Baek, S. & Song, S.<br/>
+In *28th Annual Meeting of Midwest Econometrics Group (MEG2018), Madison, Wisconsin, United States, October, 2018.*
+
+0. **Economic models with non-Euclidean data**<br/>
+Baek, S. & Song, S.<br/>
+In *2018 Joint Statistical Meetings (JSM2018), Vancouver, Canada, July, 2018.*
+
+0. **Estimation of economic models with non-Euclidean data**<br/>
+Baek, S. & Song, S.<br/>
+In *New Frontiers in Econometrics 2018, Stamford, Connecticut, June, 2018.*
+{:reversed="reversed"}
+
+<br/>&nbsp;
+
+### Download
+
+Will be available soon.
