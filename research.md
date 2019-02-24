@@ -7,6 +7,8 @@ permalink: /research/
 
 # Digital Human Modeling & Analysis
 
+![](/projects/shape-matters/img/graphAE.png)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis justo, posuere ut lobortis et, viverra in ex. Donec nec ultricies eros. Sed mollis vestibulum scelerisque. Aenean non mi in tellus aliquam mollis sed sed felis. Nam purus purus, hendrerit eu nisi ut, mollis vehicula tortor. Ut sed metus nunc. Maecenas id tortor at eros interdum blandit. Sed eros lacus, lacinia eget dolor eu, bibendum tristique mi. Curabitur placerat augue quis nulla bibendum, a faucibus mauris vulputate. Quisque sagittis pulvinar tellus non suscipit.
 
 Quisque lacinia eros purus, non sodales erat imperdiet id. Suspendisse aliquet commodo nisl sed faucibus. Nulla vitae augue vel leo ultrices blandit quis non massa. Etiam sed enim vel felis fermentum ornare. Suspendisse mollis diam in imperdiet ultrices. Donec pulvinar vulputate libero. Donec ornare suscipit dictum. Donec pellentesque luctus pulvinar. Vestibulum commodo metus lectus, sit amet blandit ligula bibendum ac.
