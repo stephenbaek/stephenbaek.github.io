@@ -46,32 +46,50 @@ We use the graphical autoencoder built on deep machine learning to obtain intrin
 
 ### Publications
 
-#### Journal Publications
+#### Journals & Proceedings
 
-0. **Shape matters: Evidences from machine learning on body shape-income relationship**<br/>
-Baek, S. & Song, S.<br/>
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+Song, S. & Baek, S.<br/>
 *Working Paper*
-{:reversed="reversed"}
-
-
-#### Conference Proceedings/Abstracts
-
-0. **Shape matters: Evidences from machine learning on body shape-income relationship**<br/>
-Baek, S. & Song, S.<br/>
-In *88th Southern Economic Association Annual Meetings (SEA2018), Washington, D.C., United States, November, 2018.*
- 
-0. **Shape matters: Evidences from machine learning on body shape-income relationship**<br/>
-Baek, S. & Song, S.<br/>
-In *28th Annual Meeting of Midwest Econometrics Group (MEG2018), Madison, Wisconsin, United States, October, 2018.*
 
 0. **Economic models with non-Euclidean data**<br/>
 Baek, S. & Song, S.<br/>
-In *2018 Joint Statistical Meetings (JSM2018), Vancouver, Canada, July, 2018.*
+In *Proceedings of the 2018 Joint Statistical Meetings (JSM2018), Vancouver, Canada, July, 2018.*
+{:reversed="reversed"}
+
+
+#### Conference Presentations
+
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+Baek, S. & Song, S.<br/>
+In *88th Southern Economic Association Annual Meetings (SEA2018), Washington, D.C., November, 2018.*
+ 
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+Baek, S. & Song, S.<br/>
+In *28th Annual Meeting of Midwest Econometrics Group (MEG2018), Madison, WI, October, 2018.*
 
 0. **Estimation of economic models with non-Euclidean data**<br/>
 Baek, S. & Song, S.<br/>
-In *New Frontiers in Econometrics 2018, Stamford, Connecticut, June, 2018.*
+In *New Frontiers in Econometrics 2018, Stamford, CT, June, 2018.*
 {:reversed="reversed"}
+
+
+#### Invited Talks/Seminars
+
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+*New York University, Stern School of Business, New York City, NY, February, 2019.*
+
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+*Federal Reserve Bank of Kansas City, Kansas City, MO, January, 2019.*
+
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+*Georgia Institute of Technology, Department of Economics, Atlanta, GA, January, 2019.*
+
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+*Microsoft Research, Redmond, WA, December, 2018.*
+{:reversed="reversed"}
+
+
 
 <br/>&nbsp;
 
