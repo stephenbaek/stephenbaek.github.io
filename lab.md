@@ -236,4 +236,47 @@ I am currently an undergraduate student in Industrial Engineering, at the Univer
 
 # Undergraduate Students
 
+![](/assets/people/mgozali.png)
+## Marc Gozali
+<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> 208 Engineering Research Facility, 330 S. Madison St., Iowa City, IA 52242, United States<br/>
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [marc-goazli@uiowa.edu](mailto:marc-gozali@uiowa.edu)<br/>
+
+### Bio:
+N/A
+
+### Education:
+- **B.S. Computer Science**, University of Iowa, 2020 (Expected).
+
+<br/>&nbsp;
+
+
+![](/assets/people/jheo.jpg)
+## Jaykang Heo
+<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> 208 Engineering Research Facility, 330 S. Madison St., Iowa City, IA 52242, United States<br/>
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [jaykang-heo@uiowa.edu](mailto:jaykang-heo@uiowa.edu)<br/>
+
+### Bio:
+I am currently an undergraduate student in Computer Science at the University of Iowa. I work as an undergraduate research assistant at the Visual Intelligence Laboratory at the Center for Computer-Aided Design (CCAD). My current research interest is on the application of deep learning and computer vision techniques to solve real life problems.
+
+### Education:
+- **B.S. Computer Science**, University of Iowa, 2020 (Expected).
+
+
+<br/>&nbsp;
+
 # Alumni
+
+![](/assets/people/znolte.jpg)
+## Zachary Nolte
+(Master's Student 2015~2017)
+- **M.S. Industrial Engineering**, University of Iowa, 2017.
+- **B.S. Industrial Engineering**, University of Iowa, 2015.
+  - Minor in Psychology
+  
+<br/>&nbsp;
+
+![](/assets/people/smate.jpg)
+## Samuel S, Mate
+(Master's Student 2015~2016)
+- **M.S. Mechanical Engineering**, University of Iowa, 2016.
+- **B.S. Mechanical Engineering**, University of Iowa, 2014.
