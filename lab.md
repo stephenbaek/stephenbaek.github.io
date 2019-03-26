@@ -56,10 +56,31 @@ Students with the above qualifications are strongly encouraged to contact Prof. 
 
 
 ### GPU Computing Server
+![](/assets/facility/nvidia-gpu-server.png)
+Lambda Labs - [Lambda Blade](https://lambdalabs.com/products/blade)
+- GPUs: 8x NVIDIA GeForce GTX 1080Ti
+- Processor: 2x Intel Xeon(R) Processor E5-2650 v4
+- Memory: 512 GB DDR4 ECC RAM
+- Storage: Intel DC P3600 2.0 TB (2600 MB/s read)
+
 
 ### Form II
+![](/assets/facility/formlabs-form2_cropped.png)
+Form Labs - [Form II](https://formlabs.com/3d-printers/form-2/)
+- Technology: Stereolithography (SLA)
+- Build Volume: 145 x 145 x 175 mm (5.7 x 5.7 x 6.9 in)
+- Operating Temperature: Auto-heats to 35° C (95° F)
+- Self-heating Resin Tank
+- Z-Resolution (Layer Thckness): 25, 50, 100 microns
+- Laser Spot Size: 140 microns
 
 ### MakerBot Z18 Replicator
+![](/assets/facility/Z18-Mobile-Image.jpg)
+Makerbot - [Replicator Z18](https://www.makerbot.com/3d-printers/replicator-z18/)
+- Technology: Fused Deposition Modeling (FDM)
+- Build Volume: 300 x 305 x 457 mm (11.8 x 12.0 x 18.0 in)
+- Z-Resolution (Layer Thckness): 100 microns
+- Nozzle Diameter: 0.4 mm
 
 
 <br/>&nbsp;
