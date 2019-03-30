@@ -28,6 +28,8 @@ Interested students, researchers, or any other individuals are always welcome to
 
 
 # Join Our Group!
+[We are actively seeking for new members now! Apply before May 2019!](http://www.stephenbaek.com/recruit_2019.pdf)
+
 We are always looking for a **self-motivated**, highly competent, and friendly graduate students to pursue Ph.D. degree. For all positions, the minimum requirements are as follows:
 - Bachelor's degree in a relevant discipline (engineering, computer science, etc.);
 - Proficiency in at least one programming language (C/C++, Python, MATLAB, etc.);
