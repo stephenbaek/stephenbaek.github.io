@@ -6,6 +6,8 @@ date:   2018-11-21 00:50:00 -0600
 permalink: /about/
 ---
 
+[*I'm looking for new postdoc/grad students now! Apply before May 2019!](http://www.stephenbaek.com/recruit_2019.pdf)
+
 Hi, my name is Steve Baek. I'm interested in theories and applications of computational geometry and machine learning, or more specifically,
 I'm interested in mathematical representations and algorithms for learning trends and patterns in geometric objects.
 For my research, I have a lot of fun with photographs, videos, depth images, 3D models/scans, and medical images.
