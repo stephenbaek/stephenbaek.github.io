@@ -9,9 +9,10 @@ categories: projects
 # Zernike Convolutional Neural Networks on Arbitrary Surfaces
 
 <center>
-<b><span style="font-size:larger;">Zhiyu Sun</span> <sup>1</sup></b>, <b><span style="font-size:larger;">Ethan Rooke</span> <sup>2</sup></b>, <b><span style="font-size:larger;">Yusen He</span> <sup>1</sup></b>, <b><span style="font-size:larger;">Jia Lu</span> <sup>1</sup></b>, and <b><span style="font-size:larger;">Stephen Baek</span> <sup>1,2</sup></b><br/>
+<b><span style="font-size:larger;">Zhiyu Sun</span> <sup>1</sup></b>, <b><span style="font-size:larger;">Ethan Rooke</span> <sup>2</sup></b>, <b><span style="font-size:larger;">Yusen He</span> <sup>1</sup></b>, <b><span style="font-size:larger;">Jia Lu</span> <sup>3</sup></b>, and <b><span style="font-size:larger;">Stephen Baek</span> <sup>1</sup></b><br/>
 <sup>1</sup> Department of Industrial and Systems Engineering, The University of Iowa<br/>
 <sup>2</sup> Applied Mathematical and Computational Sciences, The University of Iowa<br/>
+<sup>2</sup> Department of Mechanical Engineering, The University of Iowa<br/>
 {zhiyu-sun, ethan-rooke, yusen-he, jia-lu, stephen-baek} (at) uiowa (dot) edu
 </center>
 
