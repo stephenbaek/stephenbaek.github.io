@@ -9,8 +9,19 @@ permalink: /research/
 
 ![](/projects/zernet/img/zernike_convolution.png)
 
-Over the last several years, convolutional neural networks (CNN) have demonstrated an unprecedented success in a variety of visual cognition tasks. Such a success, however, has been concentrated in mostly computer vision and image/signal processing applications, where one can enjoy a nice, grid-like structure of the data set (signal = 1D grid of amplitudes, image = 2D grid of pixel values, …). Meanwhile, there is a large number of problems that could not benefit much from such powerful CNNs due to the non-Euclidean nature of the data set. For instance, graphical models, such as computer graphics objects or computer-aided design (CAD) parts, often exist as a boundary representation (B-rep) model in which the geometry of the model is represented by a thin, arbitrary-shaped boundary surface (2D manifold), rather than a grid-like representation. Hence, there is no canonical way of representing such data in a tensor format as expected by CNNs and, thus, the standard CNNs cannot analyze such data. Point clouds from 3D scanners or LiDAR systems, graphs from social network data, molecular structures of pharmaceutical compounds, protein foldings, and many other non-image type geometric data fall into this category. At the Visual Intelligence Laboratory, we aim to develop mathematical foundations and scalable algorithms to expand CNNs to a variety of different geometric domains. Many scientific studies may benefit from such new capability, including computer-aided design and manufacturing (CAD/CAM), computer graphics, 3D sensing systems on autonomous vehicles, the brain mapping problem in neuroscience, and computational mechanics, just to list a few.
+Over the last several years, convolutional neural networks (CNN) have demonstrated an unprecedented success in a variety of visual cognition tasks.
+Such a success, however, has been concentrated in mostly computer vision and image/signal processing applications,
+where one can enjoy a nice, grid-like structure of the data set (signal=1D grid of amplitudes, image=2D grid of pixel values, and such).
+Meanwhile, there is a large number of problems that could not benefit much from such powerful CNNs due to the non-Euclidean nature of the data set. 
+For instance, graphical models, such as computer graphics objects or computer-aided design (CAD) parts, 
+often exist as a boundary representation (B-rep) model in which the geometry of the model is represented by a thin, arbitrary-shaped boundary surface
+(2D manifold), rather than a grid-like representation. Hence, there is no canonical way of representing such data in a tensor format as expected by CNNs and, thus, the standard CNNs cannot analyze such data. Point clouds from 3D scanners or LiDAR systems, graphs from social network data, molecular structures of pharmaceutical compounds, protein foldings, and many other non-image type geometric data fall into this category. At the Visual Intelligence Laboratory, we aim to develop mathematical foundations and scalable algorithms to expand CNNs to a variety of different geometric domains. Many scientific studies may benefit from such new capability, including computer-aided design and manufacturing (CAD/CAM), computer graphics, 3D sensing systems on autonomous vehicles, the brain mapping problem in neuroscience, and computational mechanics, just to list a few.
 
+### Research Projects
+- **ZerNet: Zernike Convolutional Neural Networks** ([Project Page](/projects/zernet/))
+  - **Funding Source**: Old Gold Summer Fellowship
+
+<br/>&nbsp;
 
 
 # Digital Human Modeling & Analysis
