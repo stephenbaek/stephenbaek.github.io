@@ -151,7 +151,7 @@ I am a first year Ph.D. student in Industrial Engineering at the University of I
 
 ### Education:
 - **B.S.E Biomedical Engineering**, University of Iowa, 2018
-- **Minor Human Phisiology**, University of Iowa, 2018
+- **Minor Human Physiology**, University of Iowa, 2018
 
 <br/>&nbsp;
 
