@@ -9,7 +9,7 @@ permalink: /research/
 
 ![](/projects/zernet/img/zernike_convolution.png)
 
-Over the last several years, convolutional neural networks (CNN) have demonstrated an unprecedented success in a variety of visual cognition tasks.
+Convolutional neural networks (CNN) have demonstrated an unprecedented success in a variety of visual cognition tasks.
 Such a success, however, has been concentrated in mostly computer vision and image/signal processing applications,
 where one can enjoy a nice, grid-like structure of the data set (signal=1D grid of amplitudes, image=2D grid of pixel values, and such).
 Meanwhile, there is a large number of problems that could not benefit much from such powerful CNNs due to the non-Euclidean nature of the data set. 
@@ -21,6 +21,11 @@ often exist as a boundary representation (B-rep) model in which the geometry of 
 - **ZerNet: Zernike Convolutional Neural Networks** ([Project Page](/projects/zernet/))
   - **Funding Source**: Old Gold Summer Fellowship
 
+<br/>
+
+- **Allen Brain Atlas Project**
+  - **Collaborator**: Thomas Nickl-Jockschat, MD (Department of Psychiatry)
+  
 <br/>&nbsp;
 
 
@@ -28,12 +33,7 @@ often exist as a boundary representation (B-rep) model in which the geometry of 
 
 ![](/projects/shape-matters/img/graphAE.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis justo, posuere ut lobortis et, viverra in ex. Donec nec ultricies eros. Sed mollis vestibulum scelerisque. Aenean non mi in tellus aliquam mollis sed sed felis. Nam purus purus, hendrerit eu nisi ut, mollis vehicula tortor. Ut sed metus nunc. Maecenas id tortor at eros interdum blandit. Sed eros lacus, lacinia eget dolor eu, bibendum tristique mi. Curabitur placerat augue quis nulla bibendum, a faucibus mauris vulputate. Quisque sagittis pulvinar tellus non suscipit.
-
-Quisque lacinia eros purus, non sodales erat imperdiet id. Suspendisse aliquet commodo nisl sed faucibus. Nulla vitae augue vel leo ultrices blandit quis non massa. Etiam sed enim vel felis fermentum ornare. Suspendisse mollis diam in imperdiet ultrices. Donec pulvinar vulputate libero. Donec ornare suscipit dictum. Donec pellentesque luctus pulvinar. Vestibulum commodo metus lectus, sit amet blandit ligula bibendum ac.
-
-Etiam condimentum nec elit non ultrices. Aliquam volutpat id neque quis dignissim. Sed orci turpis, tincidunt ut fringilla ac, dictum eu diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. In vulputate turpis lectus, ac dapibus lacus vestibulum quis. Suspendisse ultrices ante arcu, vitae tempus arcu elementum maximus. In non imperdiet eros, vitae pellentesque lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque est ante, tempus et tempor id, commodo molestie tellus. Suspendisse vulputate nisi sed dui mattis imperdiet. Praesent nisl dui, vulputate sed viverra at, sollicitudin ut leo.
-
+Each human body can be described through a set of numerical parameters which act similarly to one’s fingerprint. These body shape parameters can be used in a multitude of different scenarios. They can be used in movies, video games, virtual reality, and more to easily create highly realistic avatars and 3D models. These sets can also be analyzed to learn more about how people’s body type is related to their socioeconomic status. We use computational geometry and machine learning techniques to extract such numerical parameters from 3D scans, photographs, etc.
 
 ### Research Projects
 - **Developing Connected Simulation to Study Interactions between Drivers, Pedestrians, and Bicyclists (U.S. DOT 693JJ31750016)**
@@ -48,10 +48,7 @@ Etiam condimentum nec elit non ultrices. Aliquam volutpat id neque quis dignissi
 
 - **Shape Matters** ([Project Page](/projects/shape-matters/))
   - **Project Period**: 2018 - Present
-  - **Collaborator**: Prof. Suyong Song, Ph.D. (Department of Economics, University of Iowa)
-  - **Abstract**: We study the association between physical appearance and family income. In most previous studies, physical appearance was measured by imperfect proxies from subjective opinion based on surveys. Instead, we use the CAESAR data which have 3-dimensional whole body scans to mitigate the issue of possible reporting errors and measurement errors. 
-We show there are significant nonclassical reporting errors in the reported height and weight by comparing them with measured counterparts and show that these discrete measurements are too sparse to provide a complete description of the body shape.
-We use the graphical autoencoder built on deep machine learning to obtain intrinsic features consisting of human body shapes and estimate the relation between body shapes and family income. We also take into account a possible issue of endogenous body shapes by utilizing proxy variables and control functions approaches.  The estimation results show that there is a statistically significant relationship between physical appearance and family income and the associations are different across the gender. This supports the hypothesis on the physical attractiveness premium in the labor market outcomes and its heterogeneity across the gender. Our findings also highlight the importance of correctly measuring body shapes to provide adequate public policies for the healthcare.<br/>
+  - **Collaborator**: Suyong Song, PhD (Department of Economics, University of Iowa)
 
 
 <br/>&nbsp;
@@ -60,26 +57,34 @@ We use the graphical autoencoder built on deep machine learning to obtain intrin
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis justo, posuere ut lobortis et, viverra in ex. Donec nec ultricies eros. Sed mollis vestibulum scelerisque. Aenean non mi in tellus aliquam mollis sed sed felis. Nam purus purus, hendrerit eu nisi ut, mollis vehicula tortor. Ut sed metus nunc. Maecenas id tortor at eros interdum blandit. Sed eros lacus, lacinia eget dolor eu, bibendum tristique mi. Curabitur placerat augue quis nulla bibendum, a faucibus mauris vulputate. Quisque sagittis pulvinar tellus non suscipit.
 
-Quisque lacinia eros purus, non sodales erat imperdiet id. Suspendisse aliquet commodo nisl sed faucibus. Nulla vitae augue vel leo ultrices blandit quis non massa. Etiam sed enim vel felis fermentum ornare. Suspendisse mollis diam in imperdiet ultrices. Donec pulvinar vulputate libero. Donec ornare suscipit dictum. Donec pellentesque luctus pulvinar. Vestibulum commodo metus lectus, sit amet blandit ligula bibendum ac.
+- **In-cabin Driver Monitoring**
+  - **Funding Source**: Aisin Technical Center of America
 
-Etiam condimentum nec elit non ultrices. Aliquam volutpat id neque quis dignissim. Sed orci turpis, tincidunt ut fringilla ac, dictum eu diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. In vulputate turpis lectus, ac dapibus lacus vestibulum quis. Suspendisse ultrices ante arcu, vitae tempus arcu elementum maximus. In non imperdiet eros, vitae pellentesque lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque est ante, tempus et tempor id, commodo molestie tellus. Suspendisse vulputate nisi sed dui mattis imperdiet. Praesent nisl dui, vulputate sed viverra at, sollicitudin ut leo.
+- **User Study in Autonomous Driving Scenarios**
+  - **Funding Source**: Hyundai Motor Company
 
 <br/>&nbsp;
 
 # Medical Image Analysis
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis justo, posuere ut lobortis et, viverra in ex. Donec nec ultricies eros. Sed mollis vestibulum scelerisque. Aenean non mi in tellus aliquam mollis sed sed felis. Nam purus purus, hendrerit eu nisi ut, mollis vehicula tortor. Ut sed metus nunc. Maecenas id tortor at eros interdum blandit. Sed eros lacus, lacinia eget dolor eu, bibendum tristique mi. Curabitur placerat augue quis nulla bibendum, a faucibus mauris vulputate. Quisque sagittis pulvinar tellus non suscipit.
+By studying shapes and textures of medical images, it is possible to detect disease and predict clinical outcomes more accurately.
+To this end, we are interested in characterizing shapes and textures of diseases in medical images (X-rays, CT, PET, MRI, etc.) and correlate them with other clinical parameters.
 
-Quisque lacinia eros purus, non sodales erat imperdiet id. Suspendisse aliquet commodo nisl sed faucibus. Nulla vitae augue vel leo ultrices blandit quis non massa. Etiam sed enim vel felis fermentum ornare. Suspendisse mollis diam in imperdiet ultrices. Donec pulvinar vulputate libero. Donec ornare suscipit dictum. Donec pellentesque luctus pulvinar. Vestibulum commodo metus lectus, sit amet blandit ligula bibendum ac.
+- **Lung Cancer Outcome Prediction**
+  - **Funding Source**: NIH R21
+  - **Collaborators**: Xiaodong Wu, PhD (Department of Electrical and Computer Engineering)<br/>
+					   Brian J. Smith, PhD (Department of Biostatistics)<br/>
+                       Yusung Kim, PhD, Bryan G. Allen, MD, PhD, John M. Buatti, MD (Department of Radiation Oncology)
 
-Etiam condimentum nec elit non ultrices. Aliquam volutpat id neque quis dignissim. Sed orci turpis, tincidunt ut fringilla ac, dictum eu diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. In vulputate turpis lectus, ac dapibus lacus vestibulum quis. Suspendisse ultrices ante arcu, vitae tempus arcu elementum maximus. In non imperdiet eros, vitae pellentesque lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque est ante, tempus et tempor id, commodo molestie tellus. Suspendisse vulputate nisi sed dui mattis imperdiet. Praesent nisl dui, vulputate sed viverra at, sollicitudin ut leo.
-
+- **Interstitial Lung Disease Quantification**
+  - **Collaborators**: Changhyun Lee, MD, PhD (Department of Radiology)
+  
 <br/>&nbsp;
 
 # Data-driven Design & Simulation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis justo, posuere ut lobortis et, viverra in ex. Donec nec ultricies eros. Sed mollis vestibulum scelerisque. Aenean non mi in tellus aliquam mollis sed sed felis. Nam purus purus, hendrerit eu nisi ut, mollis vehicula tortor. Ut sed metus nunc. Maecenas id tortor at eros interdum blandit. Sed eros lacus, lacinia eget dolor eu, bibendum tristique mi. Curabitur placerat augue quis nulla bibendum, a faucibus mauris vulputate. Quisque sagittis pulvinar tellus non suscipit.
+It is hardly a stretch of logic to say many problems in science and engineering begin with reasoning of shapes. We are interested in teaching a computer such “geometric reasoning,” like what human designers and engineers would do when they solve a real-world problem. With an advanced machine cognition, designers and engineers will be able to focus more of their time and power on innovation and better design solutions. Furthermore, we could also learn complex patterns around geometric data that are beyond our cognitive capacity.
 
-Quisque lacinia eros purus, non sodales erat imperdiet id. Suspendisse aliquet commodo nisl sed faucibus. Nulla vitae augue vel leo ultrices blandit quis non massa. Etiam sed enim vel felis fermentum ornare. Suspendisse mollis diam in imperdiet ultrices. Donec pulvinar vulputate libero. Donec ornare suscipit dictum. Donec pellentesque luctus pulvinar. Vestibulum commodo metus lectus, sit amet blandit ligula bibendum ac.
-
-Etiam condimentum nec elit non ultrices. Aliquam volutpat id neque quis dignissim. Sed orci turpis, tincidunt ut fringilla ac, dictum eu diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. In vulputate turpis lectus, ac dapibus lacus vestibulum quis. Suspendisse ultrices ante arcu, vitae tempus arcu elementum maximus. In non imperdiet eros, vitae pellentesque lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque est ante, tempus et tempor id, commodo molestie tellus. Suspendisse vulputate nisi sed dui mattis imperdiet. Praesent nisl dui, vulputate sed viverra at, sollicitudin ut leo.
+- **High-energy Material Design and Simulation**
+  - **Funding Sources**: U.S. Air Force Office of Scientific Research (AFOSR)<br/>Multidisciplinary University Research Initiative (MURI)
+  - **Collaborators**: H.S. Udaykumar, PhD (Department of Mechanical Engineering)

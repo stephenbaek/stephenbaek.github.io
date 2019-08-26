@@ -6,6 +6,10 @@ permalink: /publications/
 ---
 
 # Preprints or Working Papers
+0. **Title of the new paper**<br/>
+Doe, J., & **Baek, S.**<br/>
+[arXiv:1806.07441](https://arxiv.org/abs/1806.07441)
+
 0. **Wall stress estimation of cerebral aneurysm based on Zernike convolutional neural networks**<br/>
 Sun, Z., Lu, J., & **Baek, S.**<br/>
 [arXiv:1806.07441](https://arxiv.org/abs/1806.07441)
