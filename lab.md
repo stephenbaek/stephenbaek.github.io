@@ -21,7 +21,7 @@ permalink: /lab/
 # About Us
 The Visual Intelligence Laboratory is a research group I direct at the University of Iowa.
 We conduct fundamental research in computational geometry, vision, and machine learning,
-targeting at a wide variety of multidisciplinary applications—geometric machine (deep) learning, statistical shape analysis, 4D scanning, computational design and fabrication, digital human modeling, driver state detection/analysis, sports performance analytics, injury prediction, etc.
+targeting at a wide variety of multidisciplinary applicationsâ€”geometric machine (deep) learning, statistical shape analysis, 4D scanning, computational design and fabrication, digital human modeling, driver state detection/analysis, sports performance analytics, injury prediction, etc.
 Interested students, researchers, or any other individuals are always welcome to [contact us](mailto:stephen-baek@uiowa.edu)!
 
 <br/>&nbsp;
@@ -70,7 +70,7 @@ Lambda Labs - [Lambda Blade](https://lambdalabs.com/products/blade)
 Form Labs - [Form II](https://formlabs.com/3d-printers/form-2/)
 - Technology: Stereolithography (SLA)
 - Build Volume: 145 x 145 x 175 mm (5.7 x 5.7 x 6.9 in)
-- Operating Temperature: Auto-heats to 35° C (95° F)
+- Operating Temperature: Auto-heats to 35Â° C (95Â° F)
 - Self-heating Resin Tank
 - Z-Resolution (Layer Thckness): 25, 50, 100 microns
 - Laser Spot Size: 140 microns
@@ -103,7 +103,7 @@ Makerbot - [Replicator Z18](https://www.makerbot.com/3d-printers/replicator-z18/
 - Researcher, Center for Computer-Aided Design
 
 ### Bio:
-I’m interested in theories and applications of computational geometry and machine learning, or more specifically, I’m interested in mathematical representations and algorithms for learning trends and patterns in geometric objects. For my research, I have a lot of fun with photographs, videos, depth images, 3D models/scans, and medical images. My current and past research spans a variety of interdisciplinary subjects including statistical human body shape analysis and modeling, vision-based human motion tracking and analysis, driver state monitoring in autonomated/autonomous vehicles, data-driven physics simulation, and medical image analysis.
+Iâ€™m interested in theories and applications of computational geometry and machine learning, or more specifically, Iâ€™m interested in mathematical representations and algorithms for learning trends and patterns in geometric objects. For my research, I have a lot of fun with photographs, videos, depth images, 3D models/scans, and medical images. My current and past research spans a variety of interdisciplinary subjects including statistical human body shape analysis and modeling, vision-based human motion tracking and analysis, driver state monitoring in autonomated/autonomous vehicles, data-driven physics simulation, and medical image analysis.
 
 [Curriculum Vitae](http://www.stephenbaek.com/cv.pdf)<br/>
 [Google Scholar Citation Record](https://scholar.google.com/citations?user=dr2krBsAAAAJ&hl=en)
@@ -140,6 +140,21 @@ I am pursuing a Master of Computer Science at the University of Iowa. Prior to t
 <br/>&nbsp;
 
 # Ph.D. Students
+
+![](/assets/people/jshull.jpg)
+## Jessica Shull
+<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> 208 Engineering Research Facility, 330 S. Madison St., Iowa City, IA 52242, United States<br/>
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [jessica-shull@uiowa.edu](mailto:jessica-shull@uiowa.edu)
+
+### Bio:
+I am a first year Ph.D. student in Industrial Engineering at the University of Iowa. I received my B.S.E. in Biomedical Engineering from the University of Iowa in 2018. I now work as a graduate research assistant at the Visual Intelligence Laboratory at the Center for Computer-Aided Design (CCAD) on campus. I am also an ergonomics trainee in the Heartland Center for Occupational Health and Safety. My research focus is on biomechanics and ergonomics, and combining these concepts with machine learning algorithms. I am currently studying the application of machine learning to human motion analysis techniques. 
+
+### Education:
+- **B.S.E Biomedical Engineering**, University of Iowa, 2018
+- **Minor Human Physiology**, University of Iowa, 2018
+
+<br/>&nbsp;
+
 
 ![](/assets/people/zsun.jpg)
 ## Zhiyu Sun

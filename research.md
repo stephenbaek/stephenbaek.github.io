@@ -5,11 +5,13 @@ author: "stephenbaek"
 permalink: /research/
 ---
 
-# Geometric Deep Learning
+# Geometric Data Analysis
 
 ![](/projects/zernet/img/zernike_convolution.png)
+![](/projects/shape-matters/img/graphAE.png)
 
-Over the last several years, convolutional neural networks (CNN) have demonstrated an unprecedented success in a variety of visual cognition tasks.
+
+Convolutional neural networks (CNN) have demonstrated an unprecedented success in a variety of visual cognition tasks.
 Such a success, however, has been concentrated in mostly computer vision and image/signal processing applications,
 where one can enjoy a nice, grid-like structure of the data set (signal=1D grid of amplitudes, image=2D grid of pixel values, and such).
 Meanwhile, there is a large number of problems that could not benefit much from such powerful CNNs due to the non-Euclidean nature of the data set. 
@@ -17,72 +19,119 @@ For instance, graphical models, such as computer graphics objects or computer-ai
 often exist as a boundary representation (B-rep) model in which the geometry of the model is represented by a thin, arbitrary-shaped boundary surface
 (2D manifold), rather than a grid-like representation. Hence, there is no canonical way of representing such data in a tensor format as expected by CNNs and, thus, the standard CNNs cannot analyze such data. Point clouds from 3D scanners or LiDAR systems, graphs from social network data, molecular structures of pharmaceutical compounds, protein foldings, and many other non-image type geometric data fall into this category. At the Visual Intelligence Laboratory, we aim to develop mathematical foundations and scalable algorithms to expand CNNs to a variety of different geometric domains. Many scientific studies may benefit from such new capability, including computer-aided design and manufacturing (CAD/CAM), computer graphics, 3D sensing systems on autonomous vehicles, the brain mapping problem in neuroscience, and computational mechanics, just to list a few.
 
-### Research Projects
-- **ZerNet: Zernike Convolutional Neural Networks** ([Project Page](/projects/zernet/))
-  - **Funding Source**: Old Gold Summer Fellowship
 
-<br/>&nbsp;
-
-
-# Human Modeling & Analysis
-
-![](/projects/shape-matters/img/graphAE.png)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis justo, posuere ut lobortis et, viverra in ex. Donec nec ultricies eros. Sed mollis vestibulum scelerisque. Aenean non mi in tellus aliquam mollis sed sed felis. Nam purus purus, hendrerit eu nisi ut, mollis vehicula tortor. Ut sed metus nunc. Maecenas id tortor at eros interdum blandit. Sed eros lacus, lacinia eget dolor eu, bibendum tristique mi. Curabitur placerat augue quis nulla bibendum, a faucibus mauris vulputate. Quisque sagittis pulvinar tellus non suscipit.
-
-Quisque lacinia eros purus, non sodales erat imperdiet id. Suspendisse aliquet commodo nisl sed faucibus. Nulla vitae augue vel leo ultrices blandit quis non massa. Etiam sed enim vel felis fermentum ornare. Suspendisse mollis diam in imperdiet ultrices. Donec pulvinar vulputate libero. Donec ornare suscipit dictum. Donec pellentesque luctus pulvinar. Vestibulum commodo metus lectus, sit amet blandit ligula bibendum ac.
-
-Etiam condimentum nec elit non ultrices. Aliquam volutpat id neque quis dignissim. Sed orci turpis, tincidunt ut fringilla ac, dictum eu diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. In vulputate turpis lectus, ac dapibus lacus vestibulum quis. Suspendisse ultrices ante arcu, vitae tempus arcu elementum maximus. In non imperdiet eros, vitae pellentesque lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque est ante, tempus et tempor id, commodo molestie tellus. Suspendisse vulputate nisi sed dui mattis imperdiet. Praesent nisl dui, vulputate sed viverra at, sollicitudin ut leo.
+<!--It is hardly a stretch of logic to say many problems in science and engineering begin with reasoning of shapes. We are interested in teaching a computer such “geometric reasoning,” like what human designers and engineers would do when they solve a real-world problem. With an advanced machine cognition, designers and engineers will be able to focus more of their time and power on innovation and better design solutions. Furthermore, we could also learn complex patterns around geometric data that are beyond our cognitive capacity.-->
 
 
 ### Research Projects
-- **Developing Connected Simulation to Study Interactions between Drivers, Pedestrians, and Bicyclists (U.S. DOT 693JJ31750016)**
-  - **Funding Source**: U.S. Department of Transportation (DOT), Federal Highway Administration (FHWA) Exploratory Advanced Research (EAR) Program
-  - **Funding Period**: October 2017 - September 2019
-  - **Funding Amount**: $1,862,640
-  - **Principal Investigator**: Daniel V. McGehee
-  - **Role**: Co-Principal Investigator (% budget: $XXXXXX)
-  - **Summary**: The goal of this project is to develop virtual reality technologies for interactive simulation among subjects within different simulation environments in order to study the road user behaviors for enhancing road safety.
-  
+
+<table>
+<tr>
+  <td colspan="2"><b>Integrating multiscale modeling and experiments to develop a meso-informed predictive capability for explosivessafety and performance ($7.4M)</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>U.S. Air Force Office of Scientific Research Multidisciplinary University Research Initiative Program</td></tr>
+<tr><td width="180">Period</td><td>06/2019$\sim$05/2024</td></tr>
+<tr><td width="180">Role</td><td>Co-Investigator (PI: Thomas Sewell)</td></tr>
+</table>
+
 <br/>
 
-- **Shape Matters** ([Project Page](/projects/shape-matters/))
-  - **Project Period**: 2018 - Present
-  - **Collaborator**: Prof. Suyong Song, Ph.D. (Department of Economics, University of Iowa)
-  - **Abstract**: We study the association between physical appearance and family income. In most previous studies, physical appearance was measured by imperfect proxies from subjective opinion based on surveys. Instead, we use the CAESAR data which have 3-dimensional whole body scans to mitigate the issue of possible reporting errors and measurement errors. 
-We show there are significant nonclassical reporting errors in the reported height and weight by comparing them with measured counterparts and show that these discrete measurements are too sparse to provide a complete description of the body shape.
-We use the graphical autoencoder built on deep machine learning to obtain intrinsic features consisting of human body shapes and estimate the relation between body shapes and family income. We also take into account a possible issue of endogenous body shapes by utilizing proxy variables and control functions approaches.  The estimation results show that there is a statistically significant relationship between physical appearance and family income and the associations are different across the gender. This supports the hypothesis on the physical attractiveness premium in the labor market outcomes and its heterogeneity across the gender. Our findings also highlight the importance of correctly measuring body shapes to provide adequate public policies for the healthcare.<br/>
+<table>
+<tr>
+  <td colspan="2"><b>Machine learning mesoscale structure-property-performance relationships of energetic materials for multiscale modeling of shock-induced detonation ($899,563)</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>U.S. Air Force Office of Scientific Research</td></tr>
+<tr><td width="180">Period</td><td>06/2019$\sim$05/2022</td></tr>
+<tr><td width="180">Role</td><td>Co-Principal Investigator (PI: H.S. Udaykumar)</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+  <td colspan="2"><b>Shape Matters: Evidences from Machine Learning on Body Shape-Income Relationship</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>Pending</td></tr>
+<tr><td width="180">Project Page</td><td><a href="/projects/shape-matters/">link</a></td></tr>
+<tr><td width="180">Collaborator</td><td>Suyong Song, PhD (Department of Economics)</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+  <td colspan="2"><b>ZerNet: Zernike Convolutional Neural Networks</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>Old Gold Summer Fellowship</td></tr>
+<tr><td width="180">Project Page</td><td><a href="/projects/zernet/">link</a></td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+  <td colspan="2"><b>Allen Brain Atlas Project</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>Pending</td></tr>
+<tr><td width="180">Collaborator</td><td>Thomas Nickl-Jockschat, MD (Department of Psychiatry)</td></tr>
+</table>
+  
+<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;
 
 
-<br/>&nbsp;
-
-# Human-centered Autonomous Vehicle Systems
+# Human Performance Analysis
 
 ![](/assets/other/invehicle.png)
 
+<!--Each human body can be described through a set of numerical parameters which act similarly to one’s fingerprint. These body shape parameters can be used in a multitude of different scenarios. They can be used in movies, video games, virtual reality, and more to easily create highly realistic avatars and 3D models. These sets can also be analyzed to learn more about how people’s body type is related to their socioeconomic status. We use computational geometry and machine learning techniques to extract such numerical parameters from 3D scans, photographs, etc.-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis justo, posuere ut lobortis et, viverra in ex. Donec nec ultricies eros. Sed mollis vestibulum scelerisque. Aenean non mi in tellus aliquam mollis sed sed felis. Nam purus purus, hendrerit eu nisi ut, mollis vehicula tortor. Ut sed metus nunc. Maecenas id tortor at eros interdum blandit. Sed eros lacus, lacinia eget dolor eu, bibendum tristique mi. Curabitur placerat augue quis nulla bibendum, a faucibus mauris vulputate. Quisque sagittis pulvinar tellus non suscipit.
+### Research Projects
 
-Quisque lacinia eros purus, non sodales erat imperdiet id. Suspendisse aliquet commodo nisl sed faucibus. Nulla vitae augue vel leo ultrices blandit quis non massa. Etiam sed enim vel felis fermentum ornare. Suspendisse mollis diam in imperdiet ultrices. Donec pulvinar vulputate libero. Donec ornare suscipit dictum. Donec pellentesque luctus pulvinar. Vestibulum commodo metus lectus, sit amet blandit ligula bibendum ac.
+<table>
+<tr>
+  <td colspan="2"><b>A study on user experience in autonomous driving scenarios ($221,398)</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>Hyundai Motor Company</td></tr>
+<tr><td width="180">Period</td><td>04/2019$\sim$01/2020</td></tr>
+<tr><td width="180">Role</td><td>Principal Investigator</td></tr>
+</table>
 
-Etiam condimentum nec elit non ultrices. Aliquam volutpat id neque quis dignissim. Sed orci turpis, tincidunt ut fringilla ac, dictum eu diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. In vulputate turpis lectus, ac dapibus lacus vestibulum quis. Suspendisse ultrices ante arcu, vitae tempus arcu elementum maximus. In non imperdiet eros, vitae pellentesque lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque est ante, tempus et tempor id, commodo molestie tellus. Suspendisse vulputate nisi sed dui mattis imperdiet. Praesent nisl dui, vulputate sed viverra at, sollicitudin ut leo.
+<br/>
 
-<br/>&nbsp;
+<table>
+<tr>
+  <td colspan="2"><b>Driver State Detection via Deep Learning ($250,000)</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>Aisin Technical Center of America</td></tr>
+<tr><td width="180">Period</td><td>10/2017$\sim$03/2019</td></tr>
+<tr><td width="180">Role</td><td>Principal Investigator</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+  <td colspan="2"><b>Developing Connected Simulation to Study Interactions between Drivers, Pedestrians, and Bicyclists ($1.8M)</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>U.S. Department of Transportation Federal Highway Administration (FHWA) Exploratory Advanced Research Program</td></tr>
+<tr><td width="180">Period</td><td>10/2017$\sim$09/2019</td></tr>
+<tr><td width="180">Role</td><td>Co-Principal Investigator (PI: Daniel V. McGehee)</td></tr>
+<tr><td width="180">Summary</td><td>The goal of this project is to develop virtual reality technologies for interactive simulation among subjects within different simulation environments in order to study the road user behaviors for enhancing road safety.</td></tr>
+</table>
+  
+<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;
 
 # Medical Image Analysis
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis justo, posuere ut lobortis et, viverra in ex. Donec nec ultricies eros. Sed mollis vestibulum scelerisque. Aenean non mi in tellus aliquam mollis sed sed felis. Nam purus purus, hendrerit eu nisi ut, mollis vehicula tortor. Ut sed metus nunc. Maecenas id tortor at eros interdum blandit. Sed eros lacus, lacinia eget dolor eu, bibendum tristique mi. Curabitur placerat augue quis nulla bibendum, a faucibus mauris vulputate. Quisque sagittis pulvinar tellus non suscipit.
+By studying shapes and textures of medical images, it is possible to detect disease and predict clinical outcomes more accurately.
+To this end, we are interested in characterizing shapes and textures of diseases in medical images (X-rays, CT, PET, MRI, etc.) and correlate them with other clinical parameters.
 
-Quisque lacinia eros purus, non sodales erat imperdiet id. Suspendisse aliquet commodo nisl sed faucibus. Nulla vitae augue vel leo ultrices blandit quis non massa. Etiam sed enim vel felis fermentum ornare. Suspendisse mollis diam in imperdiet ultrices. Donec pulvinar vulputate libero. Donec ornare suscipit dictum. Donec pellentesque luctus pulvinar. Vestibulum commodo metus lectus, sit amet blandit ligula bibendum ac.
+- **Lung Cancer Outcome Prediction**
+  - **Funding Source**: NIH R21
+  - **Collaborators**: Xiaodong Wu, PhD (Department of Electrical and Computer Engineering)<br/>
+					   Brian J. Smith, PhD (Department of Biostatistics)<br/>
+                       Yusung Kim, PhD, Bryan G. Allen, MD, PhD, John M. Buatti, MD (Department of Radiation Oncology)
 
-Etiam condimentum nec elit non ultrices. Aliquam volutpat id neque quis dignissim. Sed orci turpis, tincidunt ut fringilla ac, dictum eu diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. In vulputate turpis lectus, ac dapibus lacus vestibulum quis. Suspendisse ultrices ante arcu, vitae tempus arcu elementum maximus. In non imperdiet eros, vitae pellentesque lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque est ante, tempus et tempor id, commodo molestie tellus. Suspendisse vulputate nisi sed dui mattis imperdiet. Praesent nisl dui, vulputate sed viverra at, sollicitudin ut leo.
-
-<br/>&nbsp;
-
-# Data-driven Design & Simulation
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis justo, posuere ut lobortis et, viverra in ex. Donec nec ultricies eros. Sed mollis vestibulum scelerisque. Aenean non mi in tellus aliquam mollis sed sed felis. Nam purus purus, hendrerit eu nisi ut, mollis vehicula tortor. Ut sed metus nunc. Maecenas id tortor at eros interdum blandit. Sed eros lacus, lacinia eget dolor eu, bibendum tristique mi. Curabitur placerat augue quis nulla bibendum, a faucibus mauris vulputate. Quisque sagittis pulvinar tellus non suscipit.
-
-Quisque lacinia eros purus, non sodales erat imperdiet id. Suspendisse aliquet commodo nisl sed faucibus. Nulla vitae augue vel leo ultrices blandit quis non massa. Etiam sed enim vel felis fermentum ornare. Suspendisse mollis diam in imperdiet ultrices. Donec pulvinar vulputate libero. Donec ornare suscipit dictum. Donec pellentesque luctus pulvinar. Vestibulum commodo metus lectus, sit amet blandit ligula bibendum ac.
-
-Etiam condimentum nec elit non ultrices. Aliquam volutpat id neque quis dignissim. Sed orci turpis, tincidunt ut fringilla ac, dictum eu diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. In vulputate turpis lectus, ac dapibus lacus vestibulum quis. Suspendisse ultrices ante arcu, vitae tempus arcu elementum maximus. In non imperdiet eros, vitae pellentesque lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque est ante, tempus et tempor id, commodo molestie tellus. Suspendisse vulputate nisi sed dui mattis imperdiet. Praesent nisl dui, vulputate sed viverra at, sollicitudin ut leo.
+- **Interstitial Lung Disease Quantification**
+  - **Collaborators**: Changhyun Lee, MD, PhD (Department of Radiology)
+  

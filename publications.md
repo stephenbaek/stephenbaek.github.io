@@ -5,32 +5,37 @@ author: "stephenbaek"
 permalink: /publications/
 ---
 
-# Preprints | Working Papers
+# Working Papers
 0. **Shape Matters: Evidence from machine learning on body shape-income relationship**<br/>
 Song, S. & **Baek, S.**<br/>
 [arXiv:1906.06747](https://arxiv.org/abs/1906.06747)
 
-0. **What does AI see? Deep segmentation networks discover biomarkers forlung cancer survival**<br/>
-**Baek, S.**, He,  Y., Allen, B.G., Buatti, J.M., Smith, B.J., Plichta, K.A., Seyedin, S.N., Gannon, M., Cabel, K.R., Kim, Y., Wu, X.<br/>
-[arXiv:1903.11593](https://arxiv.org/abs/1903.11593)
-
 0. **ZerNet: Convolutional neural networks on arbitrary surfaces via Zernike local tangent space estimation**<br/>
-Sun, Z., Lu, J., & **Baek, S.**<br/>
+Sun, Z., Rooke, E., Charton, J., He, Y., Lu, J., & **Baek, S.**<br/>
 [arXiv:1812.01082](https://arxiv.org/abs/1812.01082)
-
+ 
 0. **Wall stress estimation of cerebral aneurysm based on Zernike convolutional neural networks**<br/>
 Sun, Z., Lu, J., & **Baek, S.**<br/>
 [arXiv:1806.07441](https://arxiv.org/abs/1806.07441)
-
-0. **Deep spectral descriptors: learning the point-wise correspondence metric via Siamese deep neural networks**<br/>
-Sun, Z., He, Y., Gritsenko, A., Lendasse, A., & **Baek, S.**<br/>
-[arXiv:1710.06368](https://arxiv.org/abs/1710.06368)
 {:reversed="reversed"}
 
 <br/>&nbsp;
 
 # Journal Publications
 ### 2019
+0. **Deep segmentation networks predict survival of non-small cell lung cancer**<br/>
+**Baek, S.**, He, Y. (equal contribution), Allen, B. G., Buatti, J. M., Smith, B. J., Tong, L., Sun, Z., Li, R., Wu, J., Diehn, M., Loo, B. W., Plichta, K. A., Seyedin, S. N., Gannon, M., Cabel, K. R., Kim, Y., & Wu, X.<br/>
+*Scientific Reports*, (<span style="color:#E84A5F">**Accepted**</span>)<br/>
+[arXiv:1903.11593](https://arxiv.org/abs/1903.11593)<br/>
+![](/assets/publications/he2019cancer.png)<br/>&nbsp;
+
+
+0. **Embedded Spectral Descriptors: Learning the point-wise correspondence metric via Siamese neural networks**<br/>
+Sun, Z., He, Y., Gritsenko, A., Lendasse, A., & **Baek, S.**<br/>
+*Journal of Computational Design and Engineering*, (<span style="color:#E84A5F">**Accepted**</span>)<br/>
+[arXiv:1710.06368](https://arxiv.org/abs/1710.06368)<br/>
+![](/assets/publications/Sun2019.png)<br/>&nbsp;
+
 0. **Modeling and forecasting short-term power load with copula model and deep belief network**<br/>
 Ouyang, T., He, Y., Li, H., Sun, Z., & **Baek, S.**<br/>
 *IEEE Transactions on Emerging Topics in Computational Intelligence*, 3(2): 127-136<br/>
@@ -40,7 +45,7 @@ Ouyang, T., He, Y., Li, H., Sun, Z., & **Baek, S.**<br/>
 Yoon, S., **Baek, S.**, & Lee, D.<br/>
 *Lecture Notes in Computer Science*, 11395: 161–170<br/>
 [doi:10.1007/978-3-030-12029-0_18](https://doi.org/10.1007/978-3-030-12029-0_18)
-{:start="24"}
+{:start="26"}
 {:reversed="reversed"}
 
 ### 2018
@@ -199,6 +204,12 @@ Jang, T., **Baek, S.-Y.**, & Lee, K.<br/>
 
 # Conference Presentations
 ### 2019
+0. **NADS-Net: A nimble architecture for driver and seat belt detection via convolutional neural networks**<br/>
+Chun, S., Hamidi Ghalehjegh, N., Choi, J. B., Schwarz, C. W., Gaspar, J. G., McGehee, D. V., **Baek, S.**<br/>
+In *International Conference on Computer Vision (ICCV)-Autonomous Driving Workshop. Seoul, Korea*<br/>
+(<span style="color:#E84A5F">**Acceptance rate:30.91%**</span>)
+![](/assets/publications/chun2019nadsnet.png)<br/>&nbsp;
+
 0. **Cotransport of water and chloride through co-cotransporters during neocortical seizures**<br/>
 Duquette, E., Rahmati, N., Duquette, K., Tong, L., **Baek, S.**, Staley, K., & Glykys, J.<br/>
 In *Gordon Research Conference: Spatio-Temporal Control of GABAergic Signaling and Its Breakdown in Brain Disorders. Newry, Maine, United States*
@@ -207,10 +218,14 @@ In *Gordon Research Conference: Spatio-Temporal Control of GABAergic Signaling a
 Moon, B., Choi, J. B., Lee, H. D., & **Baek, S.**<br/>
 In *International Conference on Smart Cities. Seoul, Korea*
 
+0. **Synthetic CT generation using unpaired images in a CycleGAN with identity loss**<br/>
+Sun, Z., **Baek, S.**, Yaddanapudi, S., & St-Aubin, J.<br/>
+In *2019 Annual Meeting of the American Association of Physicists in Medicine (AAPM 2019), San Antonio, Texas*
+
 0.  **Multi-scale embedded CNN for music tagging (MsE-CNN)**<br/>
 Ghalehjegh, N. H., Vahidzadeh, M., & **Baek, S.**<br/>
 In *International Conference on Machine Learning (ICML) Workshop. Long Beach, California, United States*
-{:start="54"}
+{:start="56"}
 {: reversed="reversed"}
  
 ### 2018
