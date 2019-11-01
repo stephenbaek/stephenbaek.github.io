@@ -24,7 +24,7 @@ often exist as a boundary representation (B-rep) model in which the geometry of 
 <br/>&nbsp;
 
 
-# Digital Human Modeling & Analysis
+# Human Modeling & Analysis
 
 ![](/projects/shape-matters/img/graphAE.png)
 
@@ -56,7 +56,10 @@ We use the graphical autoencoder built on deep machine learning to obtain intrin
 
 <br/>&nbsp;
 
-# Autonomous Human-centered Vehicle Systems
+# Human-centered Autonomous Vehicle Systems
+
+![](/assets/other/invehicle.png)
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis justo, posuere ut lobortis et, viverra in ex. Donec nec ultricies eros. Sed mollis vestibulum scelerisque. Aenean non mi in tellus aliquam mollis sed sed felis. Nam purus purus, hendrerit eu nisi ut, mollis vehicula tortor. Ut sed metus nunc. Maecenas id tortor at eros interdum blandit. Sed eros lacus, lacinia eget dolor eu, bibendum tristique mi. Curabitur placerat augue quis nulla bibendum, a faucibus mauris vulputate. Quisque sagittis pulvinar tellus non suscipit.
 

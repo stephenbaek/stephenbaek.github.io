@@ -2,17 +2,15 @@
 layout: post
 title: About
 author: "stephenbaek"
-date:   2018-11-21 00:50:00 -0600
+date:   2019-06-21 00:50:00 -0600
 permalink: /about/
 ---
 
-[*I'm looking for new postdoc/grad students now! Apply before May 2019!](http://www.stephenbaek.com/recruit_2019.pdf)
-
-Hi, my name is Steve Baek. I'm interested in theories and applications of computational geometry and machine learning, or more specifically,
-I'm interested in mathematical representations and algorithms for learning trends and patterns in geometric objects.
+Hi, my name is Steve Baek. I'm interested in geometric data analysis using the tools of differential geometry and machine learning.
+More specifically, I'm interested in developing mathematical representations and algorithms for quantifying trends and patterns in geometric objects.
 For my research, I have a lot of fun with photographs, videos, depth images, 3D models/scans, and medical images.
 My current and past research spans a variety of interdisciplinary subjects including statistical human body shape analysis and modeling,
-vision-based human motion tracking and analysis, driver state monitoring in autonomated/autonomous vehicles, data-driven physics simulation, and medical image analysis.
+vision-based human motion analysis, driver state monitoring in autonomous vehicles, data-driven physics simulation, and medical image analysis.
 
 I received my B.S. and Ph.D. degrees in [Mechanical and Aerospace Engineering][mae] from [Seoul National University][snu] in 2009 and 2013, respectively,
 both with the best thesis honors.
@@ -20,12 +18,13 @@ During my studies, I received the National Science and Engineering Scholarship a
 During my postdoctoral training at [Seoul National University][snu], I was also awarded Presidential Postdoc Fellowship by the President of the Republic of Korea.
 I had spent roughly two years as a Senior Researcher there, until I moved to the United States for a faculty position in 2015.
 Since then, I'm an Assistant Professor of [Industrial and Systems Engineering][ise] at the [University of Iowa][ui].
-I also hold secondary appointments in [Electrical and Computer Engineering][ece] and [Radiation Oncology][rad].
+I also hold secondary appointments in [Electrical and Computer Engineering][ece], [Radiation Oncology][rad], and [Applied Mathematical and Computational Sciences][amcs].
 I'm directing the [Visual Intelligence Laboratory][lab] at the [Center for Computer-Aided Design][ccad].
+I'm also CTO and co-founder of Inseer, Inc., a start-up company specializing in computer vision and artificial intelligence.
 
 Outside of work, I love playing (not watching) baseball and tennis. I played in 2012 SNU League All-Star Games as a first baseman. I also enjoy photography and graphic design.
 I'm happily married to my best friend with a sweet little Iowa-native girl.
- 
+
 
 # Education
 ### Ph.D. Mechanical and Aerospace Engineering, Seoul National University, Korea, 2013.
@@ -35,6 +34,7 @@ Thesis: Nonlinear Analysis of the Space of Human Body Shapes and Its Application
 Thesis: A Modeling Method for 3D Face Model Using Single 2D Front-View Image (Best Thesis Award)
 
 # Honors & Awards
+- **Old Gold Fellowship** from the University of Iowa, 2018.
 - **Best Paper Award** from International Conference on Maintenance and Rehabilitation of Constructed Infrastructure Facilities, 2017.
 - **Most Cited Articles** in Computer-Aided Design since 2011, Elsevier, 2016.
 - **Best Paper Award** from 2015 Annual Conference of the Society of CAD/CAM Engineers, 2015.
@@ -80,3 +80,4 @@ See my [Google Scholar Citation Record](https://scholar.google.com/citations?use
 [ccad]: https://www.ccad.uiowa.edu/
 [snu]: http://www.snu.ac.kr
 [mae]: http://mae.snu.ac.kr/
+[amcs]: https://www.amcs.uiowa.edu/
