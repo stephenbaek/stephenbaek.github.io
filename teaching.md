@@ -6,17 +6,23 @@ date:   2018-11-21 00:50:00 -0600
 permalink: /teaching/
 ---
 
-# 2019 Spring
 ### ISE:6380 Deep Learning (University of Iowa)
+-  2020 Spring
+-  2019 Spring
+-  2018 Fall
 
-# 2018 Fall
-### ISE:5995 Contemporary Topics of Industrial Engineering: Deep Learning for Engineering Applications (University of Iowa)
 ### ISE:4172 Big Data Analytics (University of Iowa)
+-  2020 Fall - [Live Recording (YouTube)](https://www.youtube.com/playlist?list=PLrEiIaEEneoGKUNmoVncdzJ1hSgbwfBAC)
+-  2019 Spring
+-  2018 Fall
 
-### Design for Manufacturing
+### ENGR:1300 Introduction to Engineering Computing (University of Iowa)
+- 2019 Fall
 
-### Advanced Computer-Aided Design and Manufacturing
+### Design for Manufacturing (University of Iowa)
 
-### Computer-Aided Design
+### Advanced Computer-Aided Design and Manufacturing (University of Iowa)
 
-### Digital Computers
+### Computer-Aided Design (Seoul National University)
+
+### Digital Computers and Practice (Seoul National University)

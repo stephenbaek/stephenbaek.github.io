@@ -6,14 +6,17 @@ permalink: /publications/
 ---
 
 # Working Papers
+0. **Interpretable sequence classification via prototype trajectory**<br/>
+Hong, D., **Baek, S.**, & Wang, T.<br/>
+[arXiv:2007.01777](https://arxiv/org/abs/2007.01777)
+
+0. **Geometrical and topological mesh repairing using a graph representation**<br/>
+Charton, J., **Baek, S.**, & Kim, Y.<br/>
+
 0. **Shape Matters: Evidence from machine learning on body shape-income relationship**<br/>
 Song, S. & **Baek, S.**<br/>
 [arXiv:1906.06747](https://arxiv.org/abs/1906.06747)
 
-0. **ZerNet: Convolutional neural networks on arbitrary surfaces via Zernike local tangent space estimation**<br/>
-Sun, Z., Rooke, E., Charton, J., He, Y., Lu, J., & **Baek, S.**<br/>
-[arXiv:1812.01082](https://arxiv.org/abs/1812.01082)
- 
 0. **Wall stress estimation of cerebral aneurysm based on Zernike convolutional neural networks**<br/>
 Sun, Z., Lu, J., & **Baek, S.**<br/>
 [arXiv:1806.07441](https://arxiv.org/abs/1806.07441)
@@ -22,19 +25,34 @@ Sun, Z., Lu, J., & **Baek, S.**<br/>
 <br/>&nbsp;
 
 # Journal Publications
+### 2020
+0. **Deep learning for synthetic microstructure generation in a materials-by-design framework for heterogeneous energeticmaterials**<br/>
+Chun, S., Roy, S., Nguyen, Y. T., Choi, J. B., Udaykumar, H., & **Baek, S.**<br/>
+*Scientific Reports*, 10: 13307<br/>
+[doi:10.1038/s41598-020-70149-0](https://doi.org/10.1038/s41598-020-70149-0)<br/>
+[Nature Research Community Blog](https://devicematerialscommunity.nature.com/posts/generating-synthetic-material-microstructures-using-generative-adversarial-networks-gan)<br/>
+![](/assets/publications/chun2020gan.gif)<br/>&nbsp;
+
+0. **ZerNet: Convolutional neural networkson arbitrary surfaces via Zernike local tangent space estimation**<br/>
+Sun, Z., Rooke, E., Charton, J., He, Y., Lu, J., & **Baek, S.**<br/>
+*Computer Graphics Forum*, (<span style="color:#E84A5F">**Available Online**</span>)<br/>
+[doi:10.111/cgf.14012](https://doi.org/10.1111/cgf.14012)<br/>
+![](/assets/publications/sun2020zernet.png)<br/>&nbsp;
+
+0. **Embedded spectral descriptors: learning the point-wise correspondence metric via Siamese neural networks**<br/>
+Sun, Z., He, Y., Gritsenko, A., Lendasse, A., & **Baek, S.**<br/>
+*Journal of Computational Design and Engineering*, 7(1): 18–29<br/>
+[doi:10.1093/jcde/qwaa003](https://doi.org/10.1093/jcde/qwaa003)<br/>
+![](/assets/publications/sun2020siamese.png)<br/>&nbsp;
+{:start="28"}
+{:reversed="reversed"}
+
 ### 2019
 0. **Deep segmentation networks predict survival of non-small cell lung cancer**<br/>
 **Baek, S.**, He, Y. (equal contribution), Allen, B. G., Buatti, J. M., Smith, B. J., Tong, L., Sun, Z., Li, R., Wu, J., Diehn, M., Loo, B. W., Plichta, K. A., Seyedin, S. N., Gannon, M., Cabel, K. R., Kim, Y., & Wu, X.<br/>
-*Scientific Reports*, (<span style="color:#E84A5F">**Accepted**</span>)<br/>
-[arXiv:1903.11593](https://arxiv.org/abs/1903.11593)<br/>
+*Scientific Reports*, 9: 17286<br/>
+[doi:10.1038/s41598-019-53461-2](https://doi.org/10.1038/s41598-019-53461-2)<br/>
 ![](/assets/publications/he2019cancer.png)<br/>&nbsp;
-
-
-0. **Embedded Spectral Descriptors: Learning the point-wise correspondence metric via Siamese neural networks**<br/>
-Sun, Z., He, Y., Gritsenko, A., Lendasse, A., & **Baek, S.**<br/>
-*Journal of Computational Design and Engineering*, (<span style="color:#E84A5F">**Accepted**</span>)<br/>
-[arXiv:1710.06368](https://arxiv.org/abs/1710.06368)<br/>
-![](/assets/publications/Sun2019.png)<br/>&nbsp;
 
 0. **Modeling and forecasting short-term power load with copula model and deep belief network**<br/>
 Ouyang, T., He, Y., Li, H., Sun, Z., & **Baek, S.**<br/>
@@ -203,6 +221,22 @@ Jang, T., **Baek, S.-Y.**, & Lee, K.<br/>
 <br/>&nbsp;
 
 # Conference Presentations
+
+### 2020
+0. **The  use  of  machine  learning  topredict fall risk in older adults**<br/>
+Jogerst, G., Roshdibenam, V., Butler, N., Xu, Y., & **Baek, S.**<br/>
+In *North American Primary Care Research Group (NAPCRG) 48th Annual Meeting. San Francisco, California*
+
+0. **Learning geometric data via generative neural networks**<br/>
+**Baek, S.**<br/>
+In *IISE Annual Conference & Expo 2020. New Orleans, Louisiana*
+
+0. **Ergonomic assessment via deepconvolutional neural networks**<br/>
+Shull, J. R., Kim, H., Roshdibenam, V., Fethke, N., & **Baek, S.**<br/>
+In *IISE Annual Conference & Expo 2020. New Orleans, Louisiana*
+{:start="59"}
+{: reversed="reversed"}
+
 ### 2019
 0. **NADS-Net: A nimble architecture for driver and seat belt detection via convolutional neural networks**<br/>
 Chun, S., Hamidi Ghalehjegh, N., Choi, J. B., Schwarz, C. W., Gaspar, J. G., McGehee, D. V., **Baek, S.**<br/>

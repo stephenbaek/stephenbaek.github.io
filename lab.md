@@ -99,11 +99,10 @@ Makerbot - [Replicator Z18](https://www.makerbot.com/3d-printers/replicator-z18/
 ### Affiliations:
 - Assistant Professor of Industrial and Systems Engineering (Primary)
 - Assistant Professor of Electrical and Computer Engineering
-- Assistant Professor of Radiation Oncology
-- Researcher, Center for Computer-Aided Design
+- Adjunct Assistant Professor of Radiation Oncology
 
 ### Bio:
-Iâ€™m interested in theories and applications of computational geometry and machine learning, or more specifically, Iâ€™m interested in mathematical representations and algorithms for learning trends and patterns in geometric objects. For my research, I have a lot of fun with photographs, videos, depth images, 3D models/scans, and medical images. My current and past research spans a variety of interdisciplinary subjects including statistical human body shape analysis and modeling, vision-based human motion tracking and analysis, driver state monitoring in autonomated/autonomous vehicles, data-driven physics simulation, and medical image analysis.
+I'm interested in theories and applications of computational geometry and machine learning, or more specifically, I'm interested in mathematical representations and algorithms for learning trends and patterns in geometric objects. For my research, I have a lot of fun with photographs, videos, depth images, 3D models/scans, and medical images. My current and past research spans a variety of interdisciplinary subjects including statistical human body shape analysis and modeling, vision-based human motion tracking and analysis, driver state monitoring in autonomated/autonomous vehicles, data-driven physics simulation, and medical image analysis.
 
 [Curriculum Vitae](http://www.stephenbaek.com/cv.pdf)<br/>
 [Google Scholar Citation Record](https://scholar.google.com/citations?user=dr2krBsAAAAJ&hl=en)
@@ -119,27 +118,19 @@ Iâ€™m interested in theories and applications of computational geometry and
 # Research Scientists
 
 ![](/assets/people/unknown.jpg)
-## Siyeop Yoon
+## Jerome Charton, Ph.D.
 
 <br/>&nbsp;
 
-![](/assets/people/nhamidi.png)
-## Nima Hamidi Ghalehjegh
-<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> 208 Engineering Research Facility, 330 S. Madison St., Iowa City, IA 52242, United States<br/>
-<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [nima-hamidi@uiowa.edu](mailto:nima-hamidi@uiowa.edu)
-
-### Bio:
-I am pursuing a Master of Computer Science at the University of Iowa. Prior to this, I received a Ph.D. in music composition from the University of Iowa. I am currently working as a graduate research assistant at the Visual Intelligence Laboratory located in the Center for Computer-Aided Design (CCAD). My research interests include signal processing, computational musicology, and machine learning. More recently I am working on the integration of deep learning in both computer vision and music information retrieval tasks.
-
-### Education:
-- **M.S. Computer Science**, University of Iowa, 2019 (expected).
-- **Ph.D. Music Composition**, University of Iowa, 2017.
-- **M.A. Music Composition**, Soureh Institution of Higher Education, Tehran, Iran, 2010.
-- **B.S. Civil Engineering**, Azad University, Iran, 2007.
-
-<br/>&nbsp;
 
 # Ph.D. Students
+
+![](/assets/people/unknown.jpg)
+## Heesu Kim
+<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> 208 Engineering Research Facility, 330 S. Madison St., Iowa City, IA 52242, United States<br/>
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [heesu-kim@uiowa.edu](mailto:heesu-kim@uiowa.edu)
+
+<br/>&nbsp;
 
 ![](/assets/people/jshull.jpg)
 ## Jessica Shull
@@ -152,22 +143,6 @@ I am a first year Ph.D. student in Industrial Engineering at the University of I
 ### Education:
 - **B.S.E Biomedical Engineering**, University of Iowa, 2018
 - **Minor Human Physiology**, University of Iowa, 2018
-
-<br/>&nbsp;
-
-
-![](/assets/people/zsun.jpg)
-## Zhiyu Sun
-<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> 208 Engineering Research Facility, 330 S. Madison St., Iowa City, IA 52242, United States<br/>
-<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [zhiyu-sun@uiowa.edu](mailto:zhiyu-sun@uiowa.edu)
-
-### Bio:
-I am currently a Ph.D student in Industrial Engineering at the University of Iowa. I work as a graduate research assistant at the Visual Intelligence Laboratory at the Center for Computer-Aided Design (CCAD). I received my B.S. and M.S. degrees in Mechanical Engineering from the University of Iowa (2014, 2015) with an elective focus area in solid mechanics. My current research interest is in computational design, mainly focused on design algorithms based on performance-geometry relationship. I am currently studying fundamental computational geometry theories such as statistical shape analysis, shape descriptor, correspondence detection, and etc., and utilizing machine learning algorithms to automate geometry design processes.
-
-### Education:
-- **Ph.D. Industrial Engineering**, University of Iowa, 2019 (expected).
-- **M.S. Mechanical Engineering**, University of Iowa, 2015.
-- **B.S. Mechanical Engineering**, University of Iowa, 2014.
 
 <br/>&nbsp;
 
@@ -232,59 +207,39 @@ N/A
 <br/>&nbsp;
 
 
-# M.S. Students
-
-![](/assets/people/bperlson.jpg)
-## Benjamin Perlson
-<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> 208 Engineering Research Facility, 330 S. Madison St., Iowa City, IA 52242, United States<br/>
-<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [benjamin-perlson@uiowa.edu](mailto:benjamin-perlson@uiowa.edu)<br/>
-<img src="/assets/phone-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [+1 (847) 722-7722](tel:+1-847-722-7722)
-
-### Bio:
-I am currently an undergraduate student in Industrial Engineering, at the University of Iowa. My focus in my degree is in design and manufacturing. I work as a research assistant at the Visual Intelligence Laboratory at the Center for Computer-Aided Design (CCAD). I am very interested in machine learning, 4D motion capture, and task analysis.
-
-### Education:
-- **BS/MS Industrial Engineering**, University of Iowa, 2019 (Expected).
-
-
-<br/>&nbsp;
-
-
 # Undergraduate Students
-
-![](/assets/people/mgozali.png)
-## Marc Gozali
-<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> 208 Engineering Research Facility, 330 S. Madison St., Iowa City, IA 52242, United States<br/>
-<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [marc-goazli@uiowa.edu](mailto:marc-gozali@uiowa.edu)<br/>
-
-### Bio:
-N/A
-
-### Education:
-- **B.S. Computer Science**, University of Iowa, 2020 (Expected).
-
-<br/>&nbsp;
-
-
-![](/assets/people/jheo.jpg)
-## Jaykang Heo
-<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> 208 Engineering Research Facility, 330 S. Madison St., Iowa City, IA 52242, United States<br/>
-<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [jaykang-heo@uiowa.edu](mailto:jaykang-heo@uiowa.edu)<br/>
-
-### Bio:
-I am currently an undergraduate student in Computer Science at the University of Iowa. I work as an undergraduate research assistant at the Visual Intelligence Laboratory at the Center for Computer-Aided Design (CCAD). My current research interest is on the application of deep learning and computer vision techniques to solve real life problems.
-
-### Education:
-- **B.S. Computer Science**, University of Iowa, 2020 (Expected).
 
 
 <br/>&nbsp;
 
 # Alumni
 
+![](/assets/people/zsun.jpg)
+## Zhiyu Sun (PhD 2015~2019)
+- **Ph.D. Industrial Engineering**, University of Iowa, 2019.
+- **M.S. Mechanical Engineering**, University of Iowa, 2015.
+- **B.S. Mechanical Engineering**, University of Iowa, 2014.
+
+<br/>&nbsp;
+
+![](/assets/people/nhamidi.png)
+## Nima Hamidi Ghalehjegh (MS 2018~2019)
+- **M.S. Computer Science**, University of Iowa, 2019.
+- **Ph.D. Music Composition**, University of Iowa, 2017.
+- **M.A. Music Composition**, Soureh Institution of Higher Education, Tehran, Iran, 2010.
+- **B.S. Civil Engineering**, Azad University, Iran, 2007.
+
+<br/>&nbsp;
+
+
+![](/assets/people/bperlson.jpg)
+## Benjamin Perlson (MS 2018~2019)
+- **BS/MS Industrial Engineering**, University of Iowa, 2019.
+
+<br/>&nbsp;
+
 ![](/assets/people/znolte.jpg)
-## Zachary Nolte
-(Master's Student 2015~2017)
+## Zachary Nolte (MS 2015~2017)
 - **M.S. Industrial Engineering**, University of Iowa, 2017.
 - **B.S. Industrial Engineering**, University of Iowa, 2015.
   - Minor in Psychology
@@ -292,7 +247,6 @@ I am currently an undergraduate student in Computer Science at the University of
 <br/>&nbsp;
 
 ![](/assets/people/smate.jpg)
-## Samuel S, Mate
-(Master's Student 2015~2016)
+## Samuel S, Mate (MS 2015~2016)
 - **M.S. Mechanical Engineering**, University of Iowa, 2016.
 - **B.S. Mechanical Engineering**, University of Iowa, 2014.
