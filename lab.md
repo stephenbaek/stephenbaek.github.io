@@ -125,10 +125,19 @@ I'm interested in theories and applications of computational geometry and machin
 
 # Ph.D. Students
 
-![](/assets/people/unknown.jpg)
+![](/assets/people/hkim.jpg)
 ## Heesu Kim
 <img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> 208 Engineering Research Facility, 330 S. Madison St., Iowa City, IA 52242, United States<br/>
 <img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [heesu-kim@uiowa.edu](mailto:heesu-kim@uiowa.edu)
+
+### Bio:
+I am a Ph.D student in Industrial and Systems Engineering at the University of Iowa. I have received my B.S.E. and M.E. degrees in Naval Architecture & Ocean Engineering from Inha University in Korea and an MPhil degree in Naval Architecture & Marine Engineering from the University of Strathclyde in the United Kingdom. I am currently working as a Graduate Research Assistant at the Visual Intelligence Laboratory. My research interest includes 3D human posture estimation and reconstruction from videos using machine learning.
+
+### Education:
+
+- **M.E. Naval Architecture & Ocean Engineering**, Inha University, Korea, 2019
+- **MPhil. Naval Architecture & Marine Engineering**, University of Strathclyde, United Kingdom, 2017
+- **B.S.E. Naval Architecture & Ocean Engineering**, Inha University, Korea, 2016
 
 <br/>&nbsp;
 

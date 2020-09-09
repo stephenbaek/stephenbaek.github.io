@@ -78,4 +78,4 @@ See my [Google Scholar Citation Record](https://scholar.google.com/citations?use
 [snu]: http://www.snu.ac.kr
 [mae]: http://mae.snu.ac.kr/
 [amcs]: https://www.amcs.uiowa.edu/
-[amcs]: https://www.nads-sc.uiowa.edu/
+[nads]: https://www.nads-sc.uiowa.edu/
