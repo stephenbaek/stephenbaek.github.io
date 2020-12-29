@@ -6,12 +6,15 @@ permalink: /publications/
 ---
 
 # Working Papers
+0. **Generation of synthetic microstruc-tures of heterogeneous energetic materials using deep feature representations**<br/>
+Roy, S., Neal, C., Nguyen, Y. T., Baek, S., & Udaykumar, H. S.<br/>
+
+0. **ANMAF: an automated neuronal morphology analysis frameworkusing convolutional neural networks**<br/>
+Tong, L., Glykys, J., & Baek, S.<br/>
+
 0. **Interpretable sequence classification via prototype trajectory**<br/>
 Hong, D., **Baek, S.**, & Wang, T.<br/>
 [arXiv:2007.01777](https://arxiv/org/abs/2007.01777)
-
-0. **Geometrical and topological mesh repairing using a graph representation**<br/>
-Charton, J., **Baek, S.**, & Kim, Y.<br/>
 
 0. **Shape Matters: Evidence from machine learning on body shape-income relationship**<br/>
 Song, S. & **Baek, S.**<br/>
@@ -26,6 +29,12 @@ Sun, Z., Lu, J., & **Baek, S.**<br/>
 
 # Journal Publications
 ### 2020
+0. **Mesh repairing using topology graphs**<br/>
+Charton, J., Baek, S., & Kim, Y.<br/>
+*Journal of Computational Design and Engineering*, <br/>
+[doi:10.1093/jcde/qwaa076](https://doi.org/10.1093/jcde/qwaa076)<br/>
+![](/assets/publications/charton2020.jpg)<br/>&nbsp;
+
 0. **Deep learning for synthetic microstructure generation in a materials-by-design framework for heterogeneous energeticmaterials**<br/>
 Chun, S., Roy, S., Nguyen, Y. T., Choi, J. B., Udaykumar, H., & **Baek, S.**<br/>
 *Scientific Reports*, 10: 13307<br/>
@@ -35,7 +44,7 @@ Chun, S., Roy, S., Nguyen, Y. T., Choi, J. B., Udaykumar, H., & **Baek, S.**<br/
 
 0. **ZerNet: Convolutional neural networkson arbitrary surfaces via Zernike local tangent space estimation**<br/>
 Sun, Z., Rooke, E., Charton, J., He, Y., Lu, J., & **Baek, S.**<br/>
-*Computer Graphics Forum*, (<span style="color:#E84A5F">**Available Online**</span>)<br/>
+*Computer Graphics Forum*, 39(6): 204-216<br/>
 [doi:10.111/cgf.14012](https://doi.org/10.1111/cgf.14012)<br/>
 ![](/assets/publications/sun2020zernet.png)<br/>&nbsp;
 
@@ -44,7 +53,7 @@ Sun, Z., He, Y., Gritsenko, A., Lendasse, A., & **Baek, S.**<br/>
 *Journal of Computational Design and Engineering*, 7(1): 18–29<br/>
 [doi:10.1093/jcde/qwaa003](https://doi.org/10.1093/jcde/qwaa003)<br/>
 ![](/assets/publications/sun2020siamese.png)<br/>&nbsp;
-{:start="28"}
+{:start="29"}
 {:reversed="reversed"}
 
 ### 2019
@@ -63,7 +72,7 @@ Ouyang, T., He, Y., Li, H., Sun, Z., & **Baek, S.**<br/>
 Yoon, S., **Baek, S.**, & Lee, D.<br/>
 *Lecture Notes in Computer Science*, 11395: 161–170<br/>
 [doi:10.1007/978-3-030-12029-0_18](https://doi.org/10.1007/978-3-030-12029-0_18)
-{:start="26"}
+{:start="25"}
 {:reversed="reversed"}
 
 ### 2018
@@ -133,6 +142,7 @@ Akusok, A., **Baek, S.**, Miche, Y., Björk, K.-M., Nian, R., Lauren, P., & Lend
 Baek, S.-Y., Lim, J., & Lee, K.<br/>
 *Computers & Graphics*, 46(1): 257–263<br/>
 [doi:10.1016/j.cag.2014.09.025](https://doi.org/10.1016/j.cag.2014.09.025)<br/>
+<img src="/assets/GitHub-Mark-20px.png" style="display:inline;margin: 0 0 -4px 0;"> [Source Code](https://github.com/stephenbaek/isoblend)<br/>
 ![](/assets/publications/Baek2015a.jpg)<br/>&nbsp;
 
 0. **An algorithm for estimating surface normal from its boundary curves**<br/>

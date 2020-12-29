@@ -31,6 +31,7 @@ Thesis: Nonlinear Analysis of the Space of Human Body Shapes and Its Application
 Thesis: A Modeling Method for 3D Face Model Using Single 2D Front-View Image (Best Thesis Honor)
 
 # Honors & Awards
+- **Defense Innovation Award** from Defense TechConnect Innovation Summit and Expo, 2020.
 - **Old Gold Fellowship** from the University of Iowa, 2018.
 - **Best Paper Award** from International Conference on Maintenance and Rehabilitation of Constructed Infrastructure Facilities, 2017.
 - **Most Cited Articles** in Computer-Aided Design since 2011, Elsevier, 2016.
