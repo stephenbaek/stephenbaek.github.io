@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beak wins an NSF grant to advance medical imaging"
+title:  "Baek wins an NSF grant to advance medical imaging"
 ---
 
 Despite the recent breakthroughs in AI/ML for medical imaging, these achievements have not yet yielded tangeible benefits to general clinics. The breakthroughs in AI have generated considerably heightened expectation towards the next generation patient care. In actuality, however, the constituents of the breakthroughs so far have mostly been individual research studies administered by a single, or small group of institutions, due to administrative, technical, and regulatory restrictions regarding patient data sharing.
