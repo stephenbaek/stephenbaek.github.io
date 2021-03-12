@@ -70,7 +70,7 @@ Shapes play a critical role in physics. Microstructural morphology determines me
   <td colspan="2"><b>Investigating the Mechanisms of Particle Energization in Collisionless Heliospheric Shocks ($1.2M)</b></td>
 </tr>
 <tr><td width="180">Funding Source</td><td>National Aeronautics and Space Administration (NASA)</td></tr>
-<tr><td width="180">Period</td><td>07/2020$\sim$06/2023</td></tr>
+<tr><td width="180">Period</td><td>07/2020-06/2023</td></tr>
 <!-- <tr><td width="180">Role</td><td>Co-Investigator (PI: Gregory Howes)</td></tr> -->
 <tr><td width="180">Description</td><td>The goal of this project is to understand physics of collisionless heliospheric shocks by analyzing patterns from space experiments and simulations using convolutional neural networks.</td></tr>
 </table>
@@ -82,7 +82,7 @@ Shapes play a critical role in physics. Microstructural morphology determines me
   <td colspan="2"><b>Integrating multiscale modeling and experiments to develop a meso-informed predictive capability for explosivessafety and performance ($7.5M)</b></td>
 </tr>
 <tr><td width="180">Funding Source</td><td>U.S. Air Force Office of Scientific Research Multidisciplinary University Research Initiative Program</td></tr>
-<tr><td width="180">Period</td><td>06/2019$\sim$05/2024</td></tr>
+<tr><td width="180">Period</td><td>06/2019-05/2024</td></tr>
 <!-- <tr><td width="180">Role</td><td>Co-Investigator (PI: Thomas Sewell)</td></tr> -->
 <tr><td width="180">Description</td><td>The goal of this project is to develop machine learning capacities to predict safety and performance characteristics of explosives.</td></tr>
 </table>
@@ -94,7 +94,7 @@ Shapes play a critical role in physics. Microstructural morphology determines me
   <td colspan="2"><b>Machine learning mesoscale structure-property-performance relationships of energetic materials for multiscale modeling of shock-induced detonation ($899,563)</b></td>
 </tr>
 <tr><td width="180">Funding Source</td><td>U.S. Air Force Office of Scientific Research</td></tr>
-<tr><td width="180">Period</td><td>06/2019$\sim$05/2022</td></tr>
+<tr><td width="180">Period</td><td>06/2019-05/2022</td></tr>
 <!-- <tr><td width="180">Role</td><td>Co-Principal Investigator (PI: H.S. Udaykumar)</td></tr> -->
 <tr><td width="180">Description</td><td>In this project, we are looking to learn mesoscale structure-property-performance relationships of energetic materials, such as explosives, propellants, and fuels, using deep neural networks.</td></tr>
 </table>
@@ -123,7 +123,7 @@ The Visual Intelligence Laboratory is pioneering the research to detect and unde
   <td colspan="2"><b>A study on user experience in autonomous driving scenarios ($221,398)</b></td>
 </tr>
 <tr><td width="180">Funding Source</td><td>Hyundai Motor Company</td></tr>
-<tr><td width="180">Period</td><td>04/2019$\sim$01/2020</td></tr>
+<tr><td width="180">Period</td><td>04/2019-01/2020</td></tr>
 <!-- <tr><td width="180">Role</td><td>Principal Investigator</td></tr> -->
 </table>
 
@@ -134,7 +134,7 @@ The Visual Intelligence Laboratory is pioneering the research to detect and unde
   <td colspan="2"><b>Driver State Detection via Deep Learning ($250,000)</b></td>
 </tr>
 <tr><td width="180">Funding Source</td><td>Aisin Technical Center of America</td></tr>
-<tr><td width="180">Period</td><td>10/2017$\sim$03/2019</td></tr>
+<tr><td width="180">Period</td><td>10/2017-03/2019</td></tr>
 <!-- <tr><td width="180">Role</td><td>Principal Investigator</td></tr> -->
 </table>
 
@@ -145,7 +145,7 @@ The Visual Intelligence Laboratory is pioneering the research to detect and unde
   <td colspan="2"><b>Developing Connected Simulation to Study Interactions between Drivers, Pedestrians, and Bicyclists ($1.8M)</b></td>
 </tr>
 <tr><td width="180">Funding Source</td><td>U.S. Department of Transportation Federal Highway Administration (FHWA) Exploratory Advanced Research Program</td></tr>
-<tr><td width="180">Period</td><td>10/2017$\sim$09/2019</td></tr>
+<tr><td width="180">Period</td><td>10/2017-09/2019</td></tr>
 <!-- <tr><td width="180">Role</td><td>Co-Principal Investigator (PI: Daniel V. McGehee)</td></tr> -->
 <tr><td width="180">Description</td><td>The goal of this project is to develop virtual reality technologies for interactive simulation among subjects within different simulation environments in order to study the road user behaviors for enhancing road safety.</td></tr>
 </table>
@@ -165,7 +165,8 @@ To this end, we are interested in characterizing shapes and textures of diseases
   <td colspan="2"><b>NSF Convergence Accelerator - Track D: ImagiQ: Asynchronous and Decentralized Federated Learning for Medical Imaging ($999,770)</b></td>
 </tr>
 <tr><td width="180">Funding Source</td><td>National Science Foundation</td></tr>
-<tr><td width="180">Period</td><td>09/2020$\sim$05/2021 (Phase I)</td></tr>
+<tr><td width="180">Period</td><td>09/2020-05/2021 (Phase I)</td></tr>
+<tr><td width="180">Project Page</td><td><a href="/projects/imagiq/">link</a></td></tr>
 <!-- <tr><td width="180">Role</td><td>Principal Investigator</td></tr> -->
 <tr><td width="180">Description</td><td>The goal of this project is to innovate medical imaging by collaborative model development and validation. To eliminate the hurdle of direct patient data sharing, we advocate a novel decentralized, asynchronous federated learning (FL) scheme.</td></tr>
 </table>
