@@ -46,18 +46,20 @@ Registration: Closed<br/>
 0. **Challenges of AI in real-world medicine: brittleness, explainability and bias [Experiences from Medical Imaging]**<br/>
 **Jayashree Kalpathy-Cramer, PhD**  (Harvard University)<br/>
 *Wednesday, March 24, 2021. 11:00 AM – 12:15 PM (U.S. Eastern Time)*<br/>
-Register (free): [http://bit.ly/imagiq-jkc](http://bit.ly/imagiq-jkc)
+Registration: Closed<br/>
+[Video Recording](https://youtu.be/EJr967wdxz8)
 
 
 0. **Preparing Your Radiology Practice and IT Department for Big Data and AI**<br/>
 **Paul Chang, MD**  (University of Chicago)<br/>
 *Friday, April 16, 2021. 12:15 PM – 1:30 PM (U.S. Eastern Time)*<br/>
-Register (free): [http://bit.ly/imagiq-pc](http://bit.ly/imagiq-pc)
+Registration: Closed<br/>
+Video Recording (coming soon!)
 
 
 0. **Title: To be announced**<br/>
 **Spyridon (Spyros) Bakas, PhD**  (University of Pennsylvania)<br/>
-*Wednesday, April 28, 2021. Time to be determined*<br/>
+*Time and date to be announced*<br/>
 Register (free): [http://bit.ly/imagiq-sb](http://bit.ly/imagiq-sb)
 
 
