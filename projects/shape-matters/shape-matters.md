@@ -20,9 +20,7 @@ categories: projects
 ![](/projects/shape-matters/img/graphAE.png)
 
 ### Abstract
-We study the association between physical appearance and family income. In most previous studies, physical appearance was measured by imperfect proxies from subjective opinion based on surveys. Instead, we use the CAESAR data which have 3-dimensional whole body scans to mitigate the issue of possible reporting errors and measurement errors. 
-We show there are significant nonclassical reporting errors in the reported height and weight by comparing them with measured counterparts and show that these discrete measurements are too sparse to provide a complete description of the body shape.
-We use the graphical autoencoder built on deep machine learning to obtain intrinsic features consisting of human body shapes and estimate the relation between body shapes and family income. We also take into account a possible issue of endogenous body shapes by utilizing proxy variables and control functions approaches.  The estimation results show that there is a statistically significant relationship between physical appearance and family income and the associations are different across the gender. This supports the hypothesis on the physical attractiveness premium in the labor market outcomes and its heterogeneity across the gender. Our findings also highlight the importance of correctly measuring body shapes to provide adequate public policies for the healthcare.
+The association between physical appearance and income has been of central interest in social science. However, most previous studies often measured physical appearance using classical proxies from subjective opinions based on surveys. In this study, we use novel data, called CAESAR, which contains three-dimensional (3D) whole-body scans to mitigate possible reporting and measurement errors. We demonstrate the existence of significant nonclassical reporting errors in the reported heights and weights by comparing them with measured counterparts, and show that these discrete measurements are too sparse to provide a complete description of the body shape. Instead, we use a graphical autoencoder to obtain intrinsic features, consisting of human body shapes directly from 3D scans and estimate the relationship between body shapes and family income. We also take into account a possible issue of endogenous body shapes using proxy variables and control functions. The estimation results reveal a statistically significant relationship between physical appearance and family income and that these associations differ across genders. This supports the hypothesis on the physical attractiveness premium in labor market outcomes and its heterogeneity across genders.
 
 **Keywords:**  Physical attractiveness premium, non-Euclidean data, deep machine learning,  graphical autoencoder
 
@@ -48,7 +46,7 @@ We use the graphical autoencoder built on deep machine learning to obtain intrin
 
 #### Journals & Proceedings
 
-0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+0. **Body Shape Matters: Evidence from Machine Learning on Body Shape-Income Relationship**<br/>
 Song, S. & Baek, S.<br/>
 *Working Paper*
 
