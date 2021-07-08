@@ -93,4 +93,4 @@ In *New Frontiers in Econometrics 2018, Stamford, CT, June, 2018.*
 
 ### Download
 
-Will be available soon.
+- [Data]("data.csv")
