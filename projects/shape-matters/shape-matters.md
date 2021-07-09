@@ -60,6 +60,18 @@ In *Proceedings of the 2018 Joint Statistical Meetings (JSM2018), Vancouver, Can
 
 0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
 Baek, S. & Song, S.<br/>
+In *Meeting of the Canadian Econometric Study Group, Montreal, Canada, October, 2019.*
+
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+Baek, S. & Song, S.<br/>
+In *North American Summer Meeting of Econometric Society, Seattle, WA, June, 2019.*
+
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+Baek, S. & Song, S.<br/>
+In *Econometrics Mini-conference at the University of Iowa, Iowa City, IA, May, 2019.*
+
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+Baek, S. & Song, S.<br/>
 In *88th Southern Economic Association Annual Meetings (SEA2018), Washington, D.C., November, 2018.*
  
 0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
@@ -73,6 +85,12 @@ In *New Frontiers in Econometrics 2018, Stamford, CT, June, 2018.*
 
 
 #### Invited Talks/Seminars
+
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+*Korea University, Department of Economics, Seoul, Korea, August, 2019.*
+
+0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+*Korea Development Institute, Sejong, Korea, August, 2019.*
 
 0. **Shape matters: Evidence from machine learning on body shape-income relationship**<br/>
 *New York University, Stern School of Business, New York City, NY, February, 2019.*
