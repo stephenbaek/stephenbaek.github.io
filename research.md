@@ -5,6 +5,64 @@ author: "stephenbaek"
 permalink: /research/
 ---
 
+
+# Physics of Shapes
+
+![](/assets/publications/chun2020gan.gif)
+
+Shapes play a critical role in physics. Microstructural morphology determines mechano-chemical behavior of a material; aerodynamics of a vehicle is affected by the curves of the car silhouette; certain nano-scale surface texture patterns can make the surface repel or absorb liquids; just to list a few. In the Visual Intelligence Laboratory, we are interested in discovering linkages between shapes and various physical phenomena using the tools of computational differential geometry, computer vision, and machine learning.
+
+### Research Projects
+
+<table>
+<tr>
+  <td colspan="2"><b>DMREF: Physics-Informed Meta-Learning for Design of Complex Materials ($1.74M)</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>National Science Foundation (NSF)</td></tr>
+<tr><td width="180">Period</td><td>03/2022-02/2026</td></tr>
+<!-- <tr><td width="180">Role</td><td>Principal Investigator</td></tr> -->
+<tr><td width="180">Description</td><td>The goal of this project is to develop meta-learning algorithms to extend machine learning models trained on one specific material system to other broader range of material systems (different species or length/time scales).</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+  <td colspan="2"><b>Investigating the Mechanisms of Particle Energization in Collisionless Heliospheric Shocks ($1.2M)</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>National Aeronautics and Space Administration (NASA)</td></tr>
+<tr><td width="180">Period</td><td>07/2020-06/2023</td></tr>
+<!-- <tr><td width="180">Role</td><td>Co-Investigator (PI: Gregory Howes)</td></tr> -->
+<tr><td width="180">Description</td><td>The goal of this project is to understand physics of collisionless heliospheric shocks by analyzing patterns from space experiments and simulations using convolutional neural networks.</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+  <td colspan="2"><b>Integrating multiscale modeling and experiments to develop a meso-informed predictive capability for explosivessafety and performance ($7.5M)</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>U.S. Air Force Office of Scientific Research Multidisciplinary University Research Initiative Program</td></tr>
+<tr><td width="180">Period</td><td>06/2019-05/2024</td></tr>
+<!-- <tr><td width="180">Role</td><td>Co-Investigator (PI: Thomas Sewell)</td></tr> -->
+<tr><td width="180">Description</td><td>The goal of this project is to develop machine learning capacities to predict safety and performance characteristics of explosives.</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+  <td colspan="2"><b>Machine learning mesoscale structure-property-performance relationships of energetic materials for multiscale modeling of shock-induced detonation ($899,563)</b></td>
+</tr>
+<tr><td width="180">Funding Source</td><td>U.S. Air Force Office of Scientific Research</td></tr>
+<tr><td width="180">Period</td><td>06/2019-05/2022</td></tr>
+<!-- <tr><td width="180">Role</td><td>Co-Principal Investigator (PI: H.S. Udaykumar)</td></tr> -->
+<tr><td width="180">Description</td><td>In this project, we are looking to learn mesoscale structure-property-performance relationships of energetic materials, such as explosives, propellants, and fuels, using deep neural networks.</td></tr>
+</table>
+
+<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;
+
+
 # Geometric Deep Learning
 
 ![](/projects/zernet/img/zernike_convolution.png)
@@ -46,59 +104,14 @@ often exist as a boundary representation (B-rep) model in which the geometry of 
 
 <br/>
 
-<table>
+<!-- <table>
 <tr>
   <td colspan="2"><b>Allen Brain Atlas Project</b></td>
 </tr>
 <tr><td width="180">Funding Source</td><td>Pending</td></tr>
 <tr><td width="180">Collaborator</td><td>Thomas Nickl-Jockschat, MD (Department of Psychiatry)</td></tr>
-</table>
+</table> -->
   
-<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;
-
-
-# Physics of Shapes
-
-![](/assets/publications/chun2020gan.gif)
-
-Shapes play a critical role in physics. Microstructural morphology determines mechano-chemical behavior of a material; aerodynamics of a vehicle is affected by the curve of a car silhouette; certain nano-scale texture patterns on a surface can create a liquid behavior that doesn't exist in nature; just to list a few. In the Visual Intelligence Laboratory, we are interested in discovering linkages between shapes and various physical phenomena using the tools of differential geometry and machine learning.
-
-### Research Projects
-
-<table>
-<tr>
-  <td colspan="2"><b>Investigating the Mechanisms of Particle Energization in Collisionless Heliospheric Shocks ($1.2M)</b></td>
-</tr>
-<tr><td width="180">Funding Source</td><td>National Aeronautics and Space Administration (NASA)</td></tr>
-<tr><td width="180">Period</td><td>07/2020-06/2023</td></tr>
-<!-- <tr><td width="180">Role</td><td>Co-Investigator (PI: Gregory Howes)</td></tr> -->
-<tr><td width="180">Description</td><td>The goal of this project is to understand physics of collisionless heliospheric shocks by analyzing patterns from space experiments and simulations using convolutional neural networks.</td></tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-  <td colspan="2"><b>Integrating multiscale modeling and experiments to develop a meso-informed predictive capability for explosivessafety and performance ($7.5M)</b></td>
-</tr>
-<tr><td width="180">Funding Source</td><td>U.S. Air Force Office of Scientific Research Multidisciplinary University Research Initiative Program</td></tr>
-<tr><td width="180">Period</td><td>06/2019-05/2024</td></tr>
-<!-- <tr><td width="180">Role</td><td>Co-Investigator (PI: Thomas Sewell)</td></tr> -->
-<tr><td width="180">Description</td><td>The goal of this project is to develop machine learning capacities to predict safety and performance characteristics of explosives.</td></tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-  <td colspan="2"><b>Machine learning mesoscale structure-property-performance relationships of energetic materials for multiscale modeling of shock-induced detonation ($899,563)</b></td>
-</tr>
-<tr><td width="180">Funding Source</td><td>U.S. Air Force Office of Scientific Research</td></tr>
-<tr><td width="180">Period</td><td>06/2019-05/2022</td></tr>
-<!-- <tr><td width="180">Role</td><td>Co-Principal Investigator (PI: H.S. Udaykumar)</td></tr> -->
-<tr><td width="180">Description</td><td>In this project, we are looking to learn mesoscale structure-property-performance relationships of energetic materials, such as explosives, propellants, and fuels, using deep neural networks.</td></tr>
-</table>
-
 <br/>&nbsp;<br/>&nbsp;<br/>&nbsp;
 
 
