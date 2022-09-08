@@ -6,28 +6,75 @@ permalink: /publications/
 ---
 
 # Working Papers
-0. **Generation of synthetic microstruc-tures of heterogeneous energetic materials using deep feature representations**<br/>
-Roy, S., Neal, C., Nguyen, Y. T., Baek, S., & Udaykumar, H. S.<br/>
 
-0. **ANMAF: an automated neuronal morphology analysis frameworkusing convolutional neural networks**<br/>
-Tong, L., Glykys, J., & Baek, S.<br/>
+0. **Federated learning on adaptively weighted nodes by bilevel optimization**<br/>
+Huang, Y., Lin, Q., Baek, S., & Street, N.<br/>
+[arXiv:2207.10751](https://arxiv.org/abs/2207.10751)
+
+0. **Physics-aware recurrent convolutional (PARC) neural networks to assimilate meso-scale reactive mechanics of energetic materials**<br/>
+Nguyen, P. C., Nguyen, Y.-T., Choi, J. B., Seshadri, P. K., Udaykumar, H., & Baek, S.<br/>
+[arXiv:2204.07234](https://arxiv.org/abs/2204.07234)
+
+0. **A predictive model using a deep segmentation network for acute coronary events (ACE) after breast radiotherapy**<br/>
+Choi, B. S., Yoo, S. K., Moon, J., Chung, S. Y., Oh, J., Baek, S., Kim, Y., Chang, J. S., Kim, H., & Kim, J. S.<br/>
+
+0. **On the role of depth predictions for 3d human pose estimation**<br/>
+Diaz-Arias, A., Messmore, M., Shin, D., & Baek, S.<br/>
+[arXiv:2103.02521](https://arxiv.org/abs/2103.02521)
 
 0. **Interpretable sequence classification via prototype trajectory**<br/>
-Hong, D., **Baek, S.**, & Wang, T.<br/>
+Hong, D., Baek, S., & Wang, T.<br/>
 [arXiv:2007.01777](https://arxiv/org/abs/2007.01777)
-
-0. **Shape Matters: Evidence from machine learning on body shape-income relationship**<br/>
-Song, S. & **Baek, S.**<br/>
-[arXiv:1906.06747](https://arxiv.org/abs/1906.06747)
-
-0. **Wall stress estimation of cerebral aneurysm based on Zernike convolutional neural networks**<br/>
-Sun, Z., Lu, J., & **Baek, S.**<br/>
-[arXiv:1806.07441](https://arxiv.org/abs/1806.07441)
+{:start="5"}
 {:reversed="reversed"}
 
 <br/>&nbsp;
 
 # Journal Publications
+### 2022
+0. **Synthesizing controlled microstructures of porous media using generative adversarial networks and reinforcement learning**<br/>
+Nguyen, P. C., Vlassis, N. N., Bahmani, B., Sun, W., Udaykumar, H., & Baek, S.<br/>
+*Scientific Reports*,<br/>
+[doi:10.1038/s41598-022-12845-7](https://doi.org/10.1038/s41598-022-12845-7)<br/>
+![](/assets/publications/nguyen2022ganac.png)<br/>&nbsp;
+
+0. **Enabling AI innovation via data and model sharing: an overview of the NSF Convergence Accelerator Track D**<br/>
+Baru, C., Pozmantier, M., Altintas, I., Baek, S., Cohen, J., Condon, L., Fanti, G., Fernandez, R. C., Jackson, E., Lall, U., Landman, B., Li, H. H., Marin, C., Lopez, B. M., Metaxas, D., Olsen, B., Page, G., Shang, J., Turkan, Y., & Zhang, P.<br/>
+*AAAI AI Magazine*,<br/>
+[doi:10.1002/aaai.12042](https://doi.org/10.1002/aaai.12042)<br/>
+
+0. **Meso-scale simulation of energetic materials I: a method for generating synthetic microstructures using deep feature representations**<br/>
+Roy, S., Neal, C., Nguyen, Y. T., Baek, S., & Udaykumar, H. S.<br/>
+*Journal of Applied Physics*,<br/>
+[doi:10.1063/5.0065294](https://doi.org/10.1063/5.0065294)<br/>
+{:start="36"}
+{:reversed="reversed"}
+
+### 2021
+0. **Machine learning model for understanding laser superhydrophobic surface functionalization**<br/>
+Huang, W., Samanta, A., Chen, Y., Baek, S., Shaw, S. K., & Ding, H.<br/>
+*Journal of Manufacturing Processes*,<br/>
+[doi:10.1016/j.jmapro.2021.08.007](https://doi.org/10.1016/j.jmapro.2021.08.007)<br/>
+
+0. **Body shape matters: Evidence from machine learning on body shape-income relationship**<br/>
+Song, S. & Baek, S.<br/>
+*PLOS ONE*,<br/>
+[doi:10.1371/journal.pone.0254785](https://doi.org/10.1371/journal.pone.0254785)<br/>
+(<span style="color:#E84A5F">**Featured in PsyPost, Daily Mail, CBS The Doctors TV Show, Virginia Public Radio, and others**</span>)
+![](/projects/shape-matters/img/graphAE.png)<br/>&nbsp;
+
+0. **Machine learning prediction of fall-risk in older adults using timed up & go test kinematics**<br/>
+Roshdibenam, V., Jogerst, G. J., Butler, N. R., & Baek, S.<br/>
+*Sensors*,<br/>
+[doi:10.3390/s21103481](https://doi.org/10.3390/s21103481)<br/>
+
+0. **ANMAF: an automated neuronal morphology analysis framework using convolutional neural networks**<br/>
+Tong, L., Langton, R., Glykys, J., & Baek, S.<br/>
+*Scientific Reports,*<br/>
+[doi:10.1038/s41598-021-87471-w](https://doi.org/10.1038/s41598-021-87471-w)
+{:start="33"}
+{:reversed="reversed"}
+
 ### 2020
 0. **Mesh repairing using topology graphs**<br/>
 Charton, J., Baek, S., & Kim, Y.<br/>
@@ -232,7 +279,62 @@ Jang, T., **Baek, S.-Y.**, & Lee, K.<br/>
 
 # Conference Presentations
 
+### 2022
+0. **Cation-chloride cotransporters' role in neuronal swelling during oxygen-glucose deprivation in the neonatal neocortex.**
+Takezawa, Y., Langton, R., Baule, S. M., Zimmerman, M. B., Baek, S., & Glykys, J.<br/>
+In *The Society for Neuroscience 2022 Annual Meeting. San Diego, California. To appear.*
+
+0. **A deep learning approach for topology optimization to enhance structural design**
+Moghadasi, N., Nguyen, P. C., & Baek, S.<br/>
+In *ASME International Mechanical Engineering Congress & Exposition (IMECE). Columbus, Ohio. To appear.*
+
+0. **Multiscale homogenization for structure-property linkage modeling in design for additive manufacturing of cellular structure**
+Nguyen, P. C., Kim, Y., Choi, Y., & Baek, S.<br/>
+In *ASME International Mechanical Engineering Congress & Exposition (IMECE). Columbus, Ohio. To appear.*
+
+0. **Physics-aware AI-directed framework for microstructural design of shocked materials**
+Choi, J., Nguyen, P., Nguyen, Y.-T., Udaykumar, H., & Baek, S.<br/>
+*In The USACM Thematic Conference on Uncertainty Quantification for Machine Learning Integrated Physics Modeling (MLIP). Arlington, Virginia.*
+(<span style="color:#E84A5F">**Best Poster Award**</span>)
+
+0. **A novel AI-assisted framework for microstructural design of shocked materials**
+Choi, J. B., Nguyen, P. C., Nguyen, Y.-T., Udaykumar, H., & Baek, S.<br/>
+In *The 22nd Biennial Conference of the APS Topical Group on Shock Compression of Condensed Matter (SHOCK22). Anaheim, California.*
+
+0. **Establishing the structure-property-performance linkage of pressed energetic materials using physics-aware recurrent convolutional neural networks (PARC)**
+Nguyen, P. C. H., Choi, J. B., Nguyen, Y.-T., Udaykumar, H., & Baek, S.<br/>
+In *The 22nd Biennial Conference of the APS Topical Group on Shock Compression of Condensed Matter (SHOCK22). Anaheim, California.*
+
+0. **Learning continuum strength models for meso-scale simulations of HMX from molecular dynamics using deep neural networks**
+Walters, D., Herrin, J., Sewell, T., Baek, S., & Udaykumar, H.<br/>
+In *The 22nd Biennial Conference of the APS Topical Group on Shock Compression of Condensed Matter (SHOCK22). Anaheim, California.*
+
+0. **Bridging meso- and macro-scales using machine learning for simulations of shocked heterogenous energetic materials**
+Udaykumar, H., Baek, S., Nguyen, Y. T., Nguyen, P., & Sen, O.<br/>
+In *The 19th U.S. National Congress on Theoretical and Applied Mechanics. Austin, Texas.*
+
+0. **Exploring the structure-property-performance linkage of energetic materials via physics-aware recurrent convolutions**
+Nguyen, P., Choi, J., Nguyen, Y.-T., Baek, S., & Udaykumar, H.<br/>
+In *The Mach Conference. Baltimore, Maryland.*
+
+0. **Synthesizing realistic images of material microstructures using convolutional neural networks**
+Baek, S., Udaykumar, H., Sun, W., & Nguyen, P.<br/>
+In *The 150th Annual Meeting & Exhibition of the Minerals, Metals & Materials Society (TMS2022). Anaheim, California.*
+{:start="71"}
+{: reversed="reversed"}
+
+### 2021
+0. Brown, C. R., Juno, J. L., Howes, G. G., Haggerty, C. C., Baek, S. S., & Batabyal, A. (2021). Anal-
+ysis of instabilities in quasi-perpendicular magnetized collisionless shocks using the field-particle
+correlation technique. In The 63th Annual Meeting of the APS Division of Plasma Physics.
+{:start="61"}
+{: reversed="reversed"}
+
 ### 2020
+0. **Artificial intelligence techniques for materials-by-design of energetic materials**<br/>
+Udaykumar, H. S., Baek, S., Nguyen, Y. T., Chun, S., & Seshadri, P. K.<br/>
+In *The 32nd Joint Army Navy NASA Air Force (JANNAF) Energetics Systems Hazards (ESHS) Meeting. Virtual*
+
 0. **The  use  of  machine  learning  topredict fall risk in older adults**<br/>
 Jogerst, G., Roshdibenam, V., Butler, N., Xu, Y., & **Baek, S.**<br/>
 In *North American Primary Care Research Group (NAPCRG) 48th Annual Meeting. San Francisco, California*
@@ -244,7 +346,7 @@ In *IISE Annual Conference & Expo 2020. New Orleans, Louisiana*
 0. **Ergonomic assessment via deepconvolutional neural networks**<br/>
 Shull, J. R., Kim, H., Roshdibenam, V., Fethke, N., & **Baek, S.**<br/>
 In *IISE Annual Conference & Expo 2020. New Orleans, Louisiana*
-{:start="59"}
+{:start="60"}
 {: reversed="reversed"}
 
 ### 2019

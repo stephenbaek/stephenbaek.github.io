@@ -2,25 +2,26 @@
 layout: post
 title: About
 author: "stephenbaek"
-date:   2019-06-21 00:50:00 -0600
+date:   2022-09-07 00:50:00 -0600
 permalink: /about/
 ---
 
-Hi, my name is Steve Baek. I'm an applied geometer, professor, and entrepreneur interested in geometric data analysis.
+Hi, my name is Steve Baek. I'm an applied geometer, researcher, educator, and entrepreneur interested in geometric data analysis.
 At the intersection of differential geometry and machine learning, I develop mathematical representations and algorithms for quantifying trends and patterns across geometric objects.
-My current and past research spans a variety of interdisciplinary subjects including analysis of geometric patterns in physical/biological phenomena (e.g. microstructure morphology of energetic materials, linkage between tumoral/peritumoral geometry and cancer outcome), statistical human body shape analysis, observation-based assessment of human performance/ergonomics, etc.
-I've been serving as a principal investigator of a variety of research projects sponsored by the National Science Foundation, U.S. Air Force, NASA, Department of Transportation, Hyundai Motor Company, and others.
+My current and past research spans a variety of interdisciplinary subjects including analysis of geometric patterns in physical/biological phenomena (e.g. microstructure morphology of energetic materials, linkage between tumoral/peritumoral geometry and cancer outcome, etc.), statistical human body shape analysis, observation-based assessment of human performance/ergonomics, etc.
+I've been leading a variety of research projects as a (co-)principal investigator sponsored by the National Science Foundation (NSF), Air Force, NASA, Army, National Institutes of Health (NIH), Department of Transportation (DOT), Hyundai Motor Company, and others.
 
-I received my B.S. and Ph.D. degrees in [Mechanical and Aerospace Engineering][mae] from [Seoul National University][snu] (SNU) in 2009 and 2013, respectively,
-both with the best thesis honor.
+I received my B.S. and Ph.D. degrees in [Mechanical and Aerospace Engineering][mae] from [Seoul National University][snu] (SNU) in 2009 and 2013, respectively, both with the best thesis honor.
 I received the National Science and Engineering Scholarship and the Global Ph.D. Fellowship from the Korean Ministry of Education during my studies.
-Until 2015, I was a postdoc at the [Institute of Advanced Machines and Design](http://iamd.snu.ac.kr/eng/index.php) at SNU, during which I was awarded Presidential Postdoc Fellowship by the President of the Republic of Korea.
-I moved to the United States in 2015 to join the University of Iowa.
-Since then, I serve as an Assistant Professor of [Industrial and Systems Engineering][ise] at the [University of Iowa][ui], with courtesy appointments in [Electrical and Computer Engineering][ece], [Radiation Oncology][rad], and [Applied Mathematical and Computational Sciences][amcs].
-I direct the [Visual Intelligence Laboratory][lab] and a member of the [National Advanced Driving Simulator][nads].
-I'm also CTO and co-founder of Inseer, Inc., an Iowa-based startup specializing in computer vision and artificial intelligence.
+After graduation, I had been a postdoc at the [Institute of Advanced Machines and Design](http://iamd.snu.ac.kr/eng/index.php) at SNU until 2015, during which I was awarded Presidential Postdoc Fellowship by the President of the Republic of Korea.
+In 2015, I moved to the United States to join the [University of Iowa][ui] as an Assistant Professor of [Industrial and Systems Engineering][ise]. While I was there, I held courtesy appointments in the Departments of [Electrical and Computer Engineering][ece], [Radiation Oncology][rad], and [Applied Mathematical and Computational Sciences][amcs].
+I was also a faculty member of the [National Advanced Driving Simulator][nads].
+In 2021, I joined the [University of Virginia][uva] (UVA) to be part of building the new [School of Data Science][sds], UVA's 12th school enabled in part by the largest private gift in University history. 
+I currently hold an appointment as Associate Professor of Data Science with Tenure and a courtesy appointment at the Department of Mechanical and Aerospace Engineering, here at UVA.
 
-Outside of my professional work, I love playing baseball and tennis. I played in 2012 SNU League All-Star Games as a first baseman. I also enjoy photography and graphic design.
+Aside from my academic role, I founded two startup companies specializing in computer vision and artificial intelligence, called [Inseer, Inc.][inseer] and Vintage Grading and Authentication (VGA), LLC. (doing business as 'Mantis Grading'). Currently, I'm serving as a scientific advisor of Inseer and Chief Technology Officer (CTO) of Mantis Grading.
+
+Outside of my professional work, I love playing golf, baseball, and tennis (in that order). Fun fact: I played in 2012 SNU League All-Star Games as a first baseman. I recently became enthusiastic about kayaking (and paddling, in general). I also enjoy photography and graphic design.
 
 
 # Education
@@ -31,6 +32,8 @@ Thesis: Nonlinear Analysis of the Space of Human Body Shapes and Its Application
 Thesis: A Modeling Method for 3D Face Model Using Single 2D Front-View Image (Best Thesis Honor)
 
 # Honors & Awards
+- **Outstanding Poster Award** from the USACM Thematic Conference on Uncertainty Quantification for Machine Learning Integrated Physics Modeling (UQ-MLIP), 2022. (Awarded to my advisee Joseph Choi)
+- **Supervisor of the Year Award** from the Pomerantz Career Center, University of Iowa, 2021.
 - **Defense Innovation Award** from Defense TechConnect Innovation Summit and Expo, 2020.
 - **Old Gold Fellowship** from the University of Iowa, 2018.
 - **Best Paper Award** from International Conference on Maintenance and Rehabilitation of Constructed Infrastructure Facilities, 2017.
@@ -80,3 +83,6 @@ See my [Google Scholar Citation Record](https://scholar.google.com/citations?use
 [mae]: http://mae.snu.ac.kr/
 [amcs]: https://www.amcs.uiowa.edu/
 [nads]: https://www.nads-sc.uiowa.edu/
+[uva]: https://www.virginia.edu/
+[sds]: https://datascience.virginia.edu/
+[inseer]: https://www.inseer.com/
