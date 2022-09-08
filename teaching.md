@@ -2,11 +2,15 @@
 layout: post
 title: Teaching
 author: "stephenbaek"
-date:   2018-11-21 00:50:00 -0600
 permalink: /teaching/
 ---
 
+### DS:6050 Deep Learning (University of Virginia)
+-  2022 Spring (Residential MSDS)
+-  2021 Fall (Online MSDS)
+
 ### ISE:6380 Deep Learning (University of Iowa)
+-  2021 Spring
 -  2020 Spring
 -  2019 Spring
 -  2018 Fall
