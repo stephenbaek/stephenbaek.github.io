@@ -33,4 +33,4 @@ gem "jekyll-remote-theme"
 gem "jekyll-paginate"
 
 gem "webrick", "~> 1.7"
-gem "kramdown", ">=2.3.0"
+gem "kramdown", ">=2.3.1"
