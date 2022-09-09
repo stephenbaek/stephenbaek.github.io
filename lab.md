@@ -55,13 +55,27 @@ I'm interested in theories and applications of computational geometry and machin
 
 # Research Scientists
 
-![](/assets/people/unknown.jpg)
+<img src="/assets/people/dmattioli.jpg" width=363>
 ## Dominik Mattioli, Ph.D.
+<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> Elson 153, 400 Brandon Ave., Charlottesville, VA 22903, United States<br/>
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> urp6gg (at) virginia (dot) edu<br/>
 
 <br/>&nbsp;
 
-![](/assets/people/unknown.jpg)
+<img src="/assets/people/msislam.jpg" width=363>
 ## Mohammad Shafkat Islam, Ph.D.
+<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> Elson 153, 400 Brandon Ave., Charlottesville, VA 22903, United States<br/>
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> vwp4tr (at) virginia (dot) edu<br/>
+
+### Bio:
+I am interested in machine-learning and deep-learning-based applications for solving real-life medical imaging problems. My current and previous research focuses on developing various state-of-the-art deep learning and medical imaging algorithms for segmentation and classification from various types medical image data, and to assist the clinicians in different tasks, including identifying the severity and cause of ophthalmic diseases, and identifying the boundaries of each instance neurons.
+
+[Google Scholar Citation Record](https://scholar.google.com/citations?user=KcPlRUwAAAAJ&hl=en)
+
+### Education:
+- **Ph.D. Electrical and Computer Engineering**, The University of Iowa, Iowa, USA, 2021.
+- **B.S. Electrical and Electronic Engineering**, Chittagong University of Engineering and Technology (CUET), Chittagong, Bangladesh, 2013.4
+
 
 <br/>&nbsp;
 
@@ -84,15 +98,22 @@ I am a Research Assistant at the Visual Intelligence Laboratory at the Center fo
 ![](/assets/people/unknown.jpg)
 ## Navya Annapareddy
 
+<br/>&nbsp;
+
 ![](/assets/people/unknown.jpg)
 ## Jason Yan Wang
+
+<br/>&nbsp;
 
 ![](/assets/people/unknown.jpg)
 ## Xinlun Cheng
 
+<br/>&nbsp;
+
 ![](/assets/people/unknown.jpg)
 ## Negin Moghadasi
 
+<br/>&nbsp;
 
 <!-- 
 # Master's Students
@@ -104,11 +125,15 @@ I am a Research Assistant at the Visual Intelligence Laboratory at the Center fo
 
 # Undergraduate Students
 
-![](/assets/people/jniu.jpg)
+<img src="/assets/people/jniu.jpg" width=363>
 ## Jiayi Niu
 
-![](/assets/people/ahavaldar.jpg)
+<br/>&nbsp;
+
+<img src="/assets/people/ahavaldar.jpg" width=363>
 ## Akhil Saket Havaldar
+
+<br/>&nbsp;
 
 ## Maajid Ali Husain
 
