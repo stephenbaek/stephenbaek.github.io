@@ -74,7 +74,7 @@ I am interested in machine-learning and deep-learning-based applications for sol
 
 ### Education:
 - **Ph.D. Electrical and Computer Engineering**, The University of Iowa, Iowa, USA, 2021.
-- **B.S. Electrical and Electronic Engineering**, Chittagong University of Engineering and Technology (CUET), Chittagong, Bangladesh, 2013.4
+- **B.S. Electrical and Electronic Engineering**, Chittagong University of Engineering and Technology (CUET), Chittagong, Bangladesh, 2013.
 
 
 <br/>&nbsp;
@@ -135,8 +135,15 @@ I am a Research Assistant at the Visual Intelligence Laboratory at the Center fo
 
 <br/>&nbsp;
 
+<img src="/assets/people/mhusain.jpeg" width=363>
 ## Maajid Ali Husain
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> mah2ksc (at) virginia (dot) edu<br/>
 
+### Bio:
+Maajid is an undergraduate student at UVA, double majoring in Computer Science and Applied Statistics with a concentration in Finance and Business. He is also the president of the UVA Data Science and Analytics Club and pushes to build a community of data-driven students at UVA.
+
+### Education:
+- **B.A. Applied Statistics & B.A. Computer Science (Dual Major)**, University of Virginia, Charlottesville, VA, 2024 (Expected).
 
 
 <br/>&nbsp;
