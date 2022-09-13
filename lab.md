@@ -130,7 +130,7 @@ I am a Research Assistant at the Visual Intelligence Laboratory at the Center fo
 
 <br/>&nbsp;
 
-<img src="/assets/people/ahavaldar.jpg" width=363>
+<img src="/assets/people/ahavaldar.JPG" width=363>
 ## Akhil Saket Havaldar
 
 <br/>&nbsp;
