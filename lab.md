@@ -127,7 +127,6 @@ I am interested in the intersection of computer vision and healthcare. My underg
 I'm an astronomy PhD student in University of Virginia. Previously, I have worked on many areas of astronomy, including analysis and modelling stellar and galaxy dataset from large sky surveys. As an astronomist, I have also received a professional training in data science and I earned master of science in data science (MSDS) degree in Spring 2022 from UVA. I'm currently doing research on acceleration of quantum spin dynamics numerical simulation using physics-aware neural network with Professor Stephen Baek.
 
 [Curriculum Vitae](https://chengxinlun.github.io/files/cv.pdf)<br/>
-[Google Scholar Citation Record](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7KeqiVe6ZAV57t96q6Oo1a70NtP-WSEUIXDBG165nukoQ5dzE_gGXSoSOGdA7cOR7vpLQvB0-6724eT0LLobFNuu5iog&user=YFVnF9AAAAAJ)
 
 ### Education:
 - **Ph.D. Astronomy**, University of Virginia, Charlottesville, VA, (In Progress).
