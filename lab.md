@@ -95,8 +95,21 @@ I am a Research Assistant at the Visual Intelligence Laboratory at the Center fo
 
 <br/>&nbsp;
 
-![](/assets/people/unknown.jpg)
+<img src="/assets/people/nannapareddy.png" width=363>
 ## Navya Annapareddy
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> na3au (at) virginia (dot) edu<br/>
+
+### Bio:
+I am interested in the intersection of computer vision and healthcare. My undergraduate background was based in Systems Engineering and my previous research includes the application of deep learning in medical imaging, active learning, and segmentation problems. Currently I am focused on applying learned 3D human models to generate realistic and pose-dependent shapes.
+
+[Google Scholar Citation Record](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7KeqiVe6ZAV57t96q6Oo1a70NtP-WSEUIXDBG165nukoQ5dzE_gGXSoSOGdA7cOR7vpLQvB0-6724eT0LLobFNuu5iog&user=YFVnF9AAAAAJ)
+
+### Education:
+- **Ph.D. Data Science**, University of Virginia, Charlottesville, VA, 2026 (Expected).
+- **M.S. Data Science**, University of Virginia, Charlottesville, VA, 2022.
+- **B.S. Systems Engineering**, University of Virginia, Charlottesville, VA, 2021.
+
+
 
 <br/>&nbsp;
 
@@ -105,8 +118,21 @@ I am a Research Assistant at the Visual Intelligence Laboratory at the Center fo
 
 <br/>&nbsp;
 
-![](/assets/people/unknown.jpg)
+<img src="/assets/people/xcheng.jpg" width=363>
 ## Xinlun Cheng
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> xc7ts (at) virginia (dot) edu<br/>
+<img src="/assets/web-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [https://chengxinlun.github.io/](https://chengxinlun.github.io/)<br/>
+
+### Bio:
+I'm an astronomy PhD student in University of Virginia. Previously, I have worked on many areas of astronomy, including analysis and modelling stellar and galaxy dataset from large sky surveys. As an astronomist, I have also received a professional training in data science and I earned master of science in data science (MSDS) degree in Spring 2022 from UVA. I'm currently doing research on acceleration of quantum spin dynamics numerical simulation using physics-aware neural network with Professor Stephen Baek.
+
+[Curriculum Vitae](https://chengxinlun.github.io/files/cv.pdf)<br/>
+[Google Scholar Citation Record](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7KeqiVe6ZAV57t96q6Oo1a70NtP-WSEUIXDBG165nukoQ5dzE_gGXSoSOGdA7cOR7vpLQvB0-6724eT0LLobFNuu5iog&user=YFVnF9AAAAAJ)
+
+### Education:
+- **Ph.D. Astronomy**, University of Virginia, Charlottesville, VA, (In Progress).
+- **M.S. Data Science**, University of Virginia, Charlottesville, VA, 2022.
+- **B.S. Physics**, Tsinghua University, Beijing, China, 2018.
 
 <br/>&nbsp;
 
