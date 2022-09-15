@@ -14,7 +14,7 @@ categories: projects
 ![](/projects/materiq/img/materiq_design_loop.png)
 
 ### Abstract
-MaterIQ, or "Material IQ," is a research project co-lead by Profs. [Stephen Baek](http://www.stephenbaek.com) (UVA Data Science) and [H.S. Udaykumar](https://engineering.uiowa.edu/people/hs-udaykumar) (Iowa Engineering). The project aims to develop a suite of artificial intelligence (AI) and machine learning (ML) algorithms specifically tailored for materials science research. We envision that AI/ML algorithms can be used in various stages of material discovery cycle such as characterization, property prediction, synthesis, design optimization, inverse design, etc. To this end, we combine diverse multidisciplinary expertise across mechanical engineering, data science, computer science, chemistry, statistics, and others, to understand and formulate unique problems arising in materials research using the languages of AI/ML. The project is well funded by multiple funding sources, including the National Science Foundation's [Designing Materials to Revolutionize and Engineer our Future (DMREF)](https://beta.nsf.gov/funding/opportunities/designing-materials-revolutionize-and-engineer-our-future-dmref) Program (DMR #2203580; PI Baek), Air Force Office of Scientific Research (AFOSR) Multidisciplinary University Research Initiatives (MURI) Program (FA9550-19-1-0318; PI Sewell & Udaykumar), Army Research Office Seedling Grant Program (Pending; PI Udaykumar), etc. 
+MaterIQ, or "Material IQ," is a research project co-lead by Profs. [Stephen Baek](http://www.stephenbaek.com) (UVA Data Science) and [H.S. Udaykumar](https://engineering.uiowa.edu/people/hs-udaykumar) (Iowa Engineering). The project aims to develop a suite of artificial intelligence (AI) and machine learning (ML) algorithms specifically tailored for materials science research. We envision that AI/ML algorithms can be used in various stages of material discovery cycle such as characterization, property prediction, synthesis, design optimization, inverse design, etc. To this end, we combine diverse multidisciplinary expertise across mechanical engineering, data science, computer science, physics, chemistry, statistics, and others, to understand and formulate unique problems arising in materials research using the languages of AI/ML. The project is well funded by multiple funding sources, including the National Science Foundation's [Designing Materials to Revolutionize and Engineer our Future (DMREF)](https://beta.nsf.gov/funding/opportunities/designing-materials-revolutionize-and-engineer-our-future-dmref) Program (DMR #2203580; PI Baek), Air Force Office of Scientific Research (AFOSR) Multidisciplinary University Research Initiatives (MURI) Program (FA9550-19-1-0318; PI Sewell & Udaykumar), Army Research Office Seedling Grant Program (Pending; PI Udaykumar), etc. 
 
 **Keywords:**  Physics-aware machine learning, Scientific machine learning (SciML), Material genome initiative, Materials-by-design
 
@@ -35,6 +35,13 @@ MaterIQ, or "Material IQ," is a research project co-lead by Profs. [Stephen Baek
     <img src="/projects/materiq/img/aro_logo.gif" width="100px"/>
     </div>
 </div>
+
+<br/>&nbsp;
+
+## Awards & Recognitions
+List under construction
+0. Defense Innovation Award
+0. Best Poster Award
 
 <br/>&nbsp;
 
@@ -86,14 +93,23 @@ Under preparation
 ### Other Senior Personnel
 - Phong Nguyen, Ph.D. (University of Virginia)
 - Xuan Song, Ph.D. (University of Iowa)
+- Jia-Wei Chern, Ph.D. (University of Virginia)
 
 ### Research Scientists, Postdoctral Scholars
 - Yen-Thi Nguyen, Ph.D. (University of Iowa)
 
 ### Graduate Students
-- Joseph Choi (University of Virginia)
 - Xinlun Cheng (University of Virginia)
-- List under construction
+- Joseph Choi (University of Virginia)
+- Irene Fang (University of Iowa)
+- Ranabir Saha (University of Iowa)
+- Pradeep Seshadri (University of Iowa)
+- Dylan Walters (University of Iowa)
+
+### Undergraduate Students
+- Austin Leonard (University of Iowa)
+- William Kaiser (University of Virginia)
+- Luke Weger (University of Iowa)
 
 <br/>&nbsp;
 
