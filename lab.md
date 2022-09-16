@@ -27,7 +27,7 @@ The Visual Intelligence Laboratory @ UVA (the "VIVA Lab") is a research group di
 # Faculty
 
 <img src="/assets/people/baek_new.jpg" width=363>
-## Stephen Baek, Ph.D.
+## Prof. Stephen Baek, Ph.D.
 <img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> Elson 189A, 400 Brandon Ave., Charlottesville, VA 22903, United States<br/>
 <img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> my last name (at) virginia (dot) edu<br/>
 <img src="/assets/web-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [http://www.stephenbaek.com](http://www.stephenbaek.com)<br/>
@@ -46,10 +46,19 @@ I'm interested in theories and applications of computational geometry and machin
 <br/>&nbsp;
 
 <img src="/assets/people/pnguyen.jpg" width=363>
-## Phong Nguyen, Ph.D.
-<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> Elson XXX, 400 Brandon Ave., Charlottesville, VA 22903, United States<br/>
-<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> XXXX (at) virginia (dot) edu<br/>
+## Prof. Phong Nguyen, Ph.D.
+<img src="/assets/location-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> Elson 188B, 400 Brandon Ave., Charlottesville, VA 22903, United States<br/>
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> phongnguyen (at) virginia (dot) edu<br/>
 
+### Bio:
+My research interest is at the intersection of mechanical engineering and data science in which novel data-driven methods are proposed to solve engineering problems. My main areas of research include physics-informed machine learning, deep generative modeling, uncertainty quantification and robust design optimization, all for the application in materials and structure design.
+
+[Google Scholar Citation Record](https://scholar.google.com/citations?user=dTI5u5wAAAAJ&hl=vi&inst=13751854044476728232)
+
+### Education:
+- **Ph.D. Mechanical Engineering**, Chung-Ang University, Seoul, Korea, 2021.
+- **M.S. Mechanical Engineering**, Hanoi University of Science and Technology, Hanoi, Vietnam, 2016.
+- **B.S. Mechanical Engineering**, Hanoi University of Science and Technology, Hanoi, Vietnam, 2013.
 
 <br/>&nbsp;
 
@@ -135,8 +144,23 @@ I'm an astronomy PhD student in University of Virginia. Previously, I have worke
 
 <br/>&nbsp;
 
-![](/assets/people/unknown.jpg)
+<img src="/assets/people/nmoghadasi.png" width=363>
 ## Negin Moghadasi
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> nm2fs (at) virginia (dot) edu<br/>
+<img src="/assets/web-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [https://neginmoghaddasi.wixsite.com/home](https://neginmoghaddasi.wixsite.com/home)<br/>
+
+### Bio:
+I am a Ph.D. Student in Systems and Information Engineering at the University of Virginia (UVA). My research interest lies in applying machine learning, deep learning, and computer vision to solve real-world complex problems specifically in healthcare, Human-Computer Interaction (HCI), cybersecurity and trust in Electric Vehicle charging systems, IoT devices, and supply chains.
+
+[Curriculum Vitae](https://ed74cdfc-592b-4944-bc09-1e51695d3de1.filesusr.com/ugd/a5660e_e6106a965e304c9a8775606993bbaee1.pdf)<br/>
+[Google Scholar Citation Record](https://scholar.google.com/citations?hl=en&user=K5Fc8yMAAAAJ&view_op=list_works&sortby=pubdate)
+
+### Education:
+- **Ph.D. Systems and Information Engineering**, University of Virginia, Charlottesville, VA (In Progress).
+- **M.Eng. Systems and Information Engineering**, University of Virginia, Charlottesville, VA.
+- **Master of Construction and Project Management**, University of Southern California, Los Angeles, CA.
+- **M.S. Industrial and Product Design**, University of Tehran, Teheran, Iran.
+- **B.S. Architectural Engineering**, Shiraz Azad University of Architecture, Shiraz, Iran.
 
 <br/>&nbsp;
 
