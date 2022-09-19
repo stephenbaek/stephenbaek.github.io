@@ -122,8 +122,17 @@ I am interested in the intersection of computer vision and healthcare. My underg
 
 <br/>&nbsp;
 
-![](/assets/people/unknown.jpg)
+<img src="/assets/people/jwang.jpeg" width=363>
 ## Jason Yan Wang
+<img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> jyw5hw (at) virginia (dot) edu<br/>
+
+### Bio:
+I am currently a PhD student in the School of Data Science and am interested in researching the application of computer vision in sports analytics. I am currently a Double Hoo with my BA in Mathematical Statistics and MS in Data Science. My past research experience has included applying computer vision to medical imaging and NFL football plays. I hope to use computer vision to make sports more accessible and safer for everyone.
+
+### Education:
+- **Ph.D. Data Science**, University of Virginia, Charlottesville, VA, 2026 (Expected).
+- **M.S. Data Science**, University of Virginia, Charlottesville, VA, 2022.
+- **B.S. Mathematical Statistics**, University of Virginia, Charlottesville, VA, 2021.
 
 <br/>&nbsp;
 
