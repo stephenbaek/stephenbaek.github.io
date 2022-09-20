@@ -51,6 +51,10 @@ List under construction
 [https://www.nature.com/articles/s41598-020-70149-0](https://www.nature.com/articles/s41598-020-70149-0)<br/>
 Source Code: Coming Soon!
 
+0. Nguyen, P.C.H., Vlassis, N.N., Bahmani, B., Sun, W.-C., Udaykumar, H.S., & Baek, S. (2022). **Synthesizing controlled microstructures of porous media using generative adversarial networks and reinforcement learning**, *Scientific Reports,* 12:9034.<br/>
+[https://www.nature.com/articles/s41598-022-12845-7](https://www.nature.com/articles/s41598-022-12845-7)<br/>
+Source Code: Coming Soon!
+
 0. List under construction
 
 ### Physics Aware Machine Learning
