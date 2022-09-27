@@ -104,13 +104,29 @@ permalink: /publications/
 
 
 <div>
+<div>
 Filter Results: 
-<select class="bibtex_search bibtex_generate_author" search="author">
-  <option value="">All Coauthors</option>
-</select>
-<select class="bibtex_search bibtex_generate_journal" search="journal">
-  <option value="">All Journals</option>
-</select>
+</div>
+<div>
+    <select class="bibtex_search bibtex_generate_author" search="author" style="width:30%; position: relative; float: left;">
+    <option value="">All Coauthors</option>
+    </select>
+    <select class="bibtex_search" style="width:69%; margin-right: 0; position: relative; float: right;">
+    <option value="">All Topics</option>
+    <!-- Add topic values here -->
+    <option value="award|featured in|best|hottest">Awarded</option>
+    <option value="microstructure|physics|dynamics|shock|materials|parc|superhydrophobic">Materials Science & Engineering</option>
+    <option value="manufacture|manufacturing|shape terra|topology optimization|asphalt">Computational Design and Engineering</option>
+    <option value="zernet|topology graph|spectral descriptors|curvature flow|differential operator|isometric shape|surface normal|volume drawing|gafinc|surface registration|mesh segmentation|lego|geodesic|point cloud|kinecad|RBF network">Computational Geometry</option>
+    <option value="body shape|pose estimation|body surface|human body|anatomical|knee|vertebra|handheld|foot|insole|femur|fall-risk|ergonomic|worker|body scan|human model">Digital Human Modeling</option>
+    <option value="tumor|anmaf|cancer|cardiac|aneurysm|tomography|neocortex|cotransport|radiotherapy|dental|radiography|c-arm|synthetic ct">Medical Imaging</option>
+    <option value="economic|shape matters">Social Science</option>
+    <option value="federated learning|extreme learning machine|copula|index theory|geometric data|elmvis">Machine Learning Foundations</option>
+    </select>
+    <select class="bibtex_search bibtex_generate_journal" search="journal" style="width:100%">
+    <option value="">All Journals</option>
+    </select>
+</div>
 </div>
 
 
