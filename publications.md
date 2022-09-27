@@ -5,6 +5,132 @@ author: "stephenbaek"
 permalink: /publications/
 ---
 
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
+<script>
+    function bibtex_callback(bibtex_display){
+        // Count the total number of publicatiions within the category (for numbering)
+        let pub_cnt = 0        
+        for (let i = 0; i < bibtex_display.children.length; i++) {
+            pub_cnt += bibtex_display.children[i].getElementsByClassName('bibtexentry').length;
+        }
+        // For each year
+        for (let i = 0; i < bibtex_display.children.length; i++) {
+            // Remove the entry if the current year publication is empty
+            if(bibtex_display.children[i].getElementsByClassName('bibtexentry').length == 0){
+                bibtex_display.children[i].remove();
+                i--;
+            }
+            // Otherwise
+            else{
+                // Convert entries to lists
+                let entries = bibtex_display.children[i].getElementsByClassName('bibtexentry')
+                for(let j = 0; j < entries.length; j++){
+                    if(entries[j].getElementsByClassName('image').length){
+                        var img = document.createElement("img");
+                        img.src = "/assets/publications/" + entries[j].getElementsByClassName('image')[0].innerHTML;
+                        entries[j].appendChild(img);
+                        entries[j].getElementsByClassName('image')[0].parentElement.remove();
+                        entries[j].style.paddingBottom = "50px"
+                    }
+                    entries[j].innerHTML = "<li>" + entries[j].innerHTML + "</li>";
+                }
+                bibtex_display.children[i].getElementsByClassName('templates')[0].innerHTML = 
+                    "<ol start = '" + pub_cnt.toString() + "' reversed='reversed'>" + bibtex_display.children[i].getElementsByClassName('templates')[0].innerHTML + "</ol>";
+                pub_cnt = pub_cnt - bibtex_display.children[i].getElementsByClassName('bibtexentry').length;
+            }
+        }
+    }
+    function noyear_callback(bibtex_display){
+        let entries = bibtex_display.getElementsByClassName('bibtexentry');
+        for(let i = 0; i < entries.length; i++){
+            if(entries[i].getElementsByClassName('howpublished').length == 0){
+                entries[i].remove();
+                i--;
+            }
+        }
+        bibtex_callback(bibtex_display)
+        let titles = bibtex_display.getElementsByTagName('h2');
+        for(let i = 0; i < titles.length; i++){
+            titles[i].remove();
+            i--;
+        }
+    }
+</script>
+
+<!-- <bibtex src="test.bib"></bibtex>
+<bibtex src="text1.bib"></bibtex> -->
+<bibtex src="/assets/publications/publications.bib"></bibtex>
+<div class="bibtex_structure">
+  <div class="group year" extra="DESC number">
+    <h2 class="title"></h2>
+    <div class="templates"></div>
+  </div>
+</div>
+
+<div class="bibtex_template">
+    <div style="font-weight: bold;">
+        <span class="title"></span>
+    </div>
+    <div class="if author">
+        <span class="author" max="10"></span>
+    </div>
+    <div class="if journal">
+        <span class="journal" style="font-style: italic;"></span><span class="if volume">, <span class="volume"></span><span class="if number">(<span class="number"></span>)</span>:</span><span class="if pages"> <span class="pages"></span></span>.
+    </div>
+    <div class="if booktitle">
+        <span class="booktitle" style="font-style: italic;"></span><span class="if address">, <span class="address"></span></span><span class="if pages">, <span class="pages"></span></span>.
+    </div>
+    <div class="if howpublished">
+        <span class="howpublished"></span>
+    </div>
+    <div class="if doi">
+        <a class="bibtexVar" href="http://dx.doi.org/+DOI+" extra="doi">
+        https://dx.doi.org/<span class="doi"></span>
+        </a>
+    </div>
+    <div class="if addendum">
+        <span class="addendum" style="color:#E84A5F; font-weight: bold;"></span>
+    </div>
+    <div class="if image">
+        <span class="image"></span>
+    </div>
+    <!-- <img class="bibtexVar" extra="BIBTEXKEY" id='+BIBTEXKEY+'> -->
+    <!-- <img class="bibtexVar" src="/assets/publications/+BIBTEXKEY+.jpg" extra="BIBTEXKEY" onerror="imgError(this)"> -->
+    <br/>
+</div>
+<!-- 
+<input type="text" class="bibtex_search" id="searchbar" placeholder="Search publications"> -->
+
+
+<div>
+Filter Results: 
+<select class="bibtex_search bibtex_generate_author" search="author">
+  <option value="">All Coauthors</option>
+</select>
+<select class="bibtex_search bibtex_generate_journal" search="journal">
+  <option value="">All Journals</option>
+</select>
+</div>
+
+
+# Working Papers
+<div class="bibtex_display" bibtextypekey="MISC" callback="noyear_callback(bibtex_display)"></div>
+<br/>&nbsp;<br/>
+
+
+# Journal Publications
+<div class="bibtex_display" bibtextypekey="ARTICLE" callback="bibtex_callback(bibtex_display)"></div>
+
+<br/>&nbsp;<br/>
+
+# Conference and Workshop Papers
+<div class="bibtex_display" bibtextypekey="INPROCEEDINGS" callback="bibtex_callback(bibtex_display)"></div>
+
+
+
+
+<!-- 
 # Working Papers
 
 0. **Federated learning on adaptively weighted nodes by bilevel optimization**<br/>
@@ -26,7 +152,7 @@ Diaz-Arias, A., Messmore, M., Shin, D., & Baek, S.<br/>
 Hong, D., Baek, S., & Wang, T.<br/>
 [arXiv:2007.01777](https://arxiv/org/abs/2007.01777)
 {:start="5"}
-{:reversed="reversed"}
+{:reversed="reversed"} 
 
 <br/>&nbsp;
 
@@ -635,3 +761,5 @@ In *8th ACM SIGGRAPH International Conference on Virtual Reality Continuum and I
 Jang, T., **Baek, S.-Y.**, & Lee, K.<br/>
 In *2009 Annual Conference of the Society of CAD/CAM Engineers, Pyeongchang, Korea*
 {: reversed="reversed"}
+ -->
+
