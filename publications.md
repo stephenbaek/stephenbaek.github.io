@@ -8,6 +8,22 @@ permalink: /publications/
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
 <script>
+    window.addEventListener('load', function() {
+        const params = new URLSearchParams(location.search);
+        const topic = params.get("topic");
+        const author = params.get("author");
+        const journal = params.get("journal");
+        if(topic){
+            if(topic=="materiq")
+                document.getElementById("topic_search").value = 'microstructure|physics|dynamics|shock|materials|parc|superhydrophobic';
+            if(topic=="design")
+                document.getElementById("topic_search").value = 'manufacture|manufacturing|shape terra|topology optimization|asphalt';
+        }
+        // let countryInStorage = localStorage.getItem("country");
+
+        // if (countryInStorage && !location.pathname.includes(countryInStorage)) {
+        //     location.href = `/${PREFIX}/${countryInStorage}`;
+    })
     function bibtex_callback(bibtex_display){
         // Count the total number of publicatiions within the category (for numbering)
         let pub_cnt = 0        
@@ -108,10 +124,10 @@ permalink: /publications/
 Filter Results: 
 </div>
 <div>
-    <select class="bibtex_search bibtex_generate_author" search="author" style="width:30%; position: relative; float: left;">
+    <select class="bibtex_search bibtex_generate_author" search="author" style="width:30%; position: relative; float: left;" id="author_search">
     <option value="">All Coauthors</option>
     </select>
-    <select class="bibtex_search" style="width:69%; margin-right: 0; position: relative; float: right;">
+    <select class="bibtex_search" style="width:69%; margin-right: 0; position: relative; float: right;" id="topic_search">
     <option value="">All Topics</option>
     <!-- Add topic values here -->
     <option value="award|featured in|best|hottest">Awarded</option>
@@ -123,7 +139,7 @@ Filter Results:
     <option value="economic|shape matters">Social Science</option>
     <option value="federated learning|extreme learning machine|copula|index theory|geometric data|elmvis">Machine Learning Foundations</option>
     </select>
-    <select class="bibtex_search bibtex_generate_journal" search="journal" style="width:100%">
+    <select class="bibtex_search bibtex_generate_journal" search="journal" style="width:100%" id="journal_search">
     <option value="">All Journals</option>
     </select>
 </div>

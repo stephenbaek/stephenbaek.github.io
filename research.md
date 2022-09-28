@@ -12,6 +12,16 @@ permalink: /research/
 
 Shapes play a critical role in physics. Microstructural morphology determines mechano-chemical behavior of a material; aerodynamics of a vehicle is affected by the curves of the car silhouette; certain nano-scale surface texture patterns can make the surface repel or absorb liquids; just to list a few. In the Visual Intelligence Laboratory, we are interested in discovering linkages between shapes and various physical phenomena using the tools of computational differential geometry, computer vision, and machine learning.
 
+
+<br/>
+### Publications & Presentations
+- List of Relevant Papers (Materials Science Applications): [Link](/publications/?topic=materiq)
+- List of Relevant Papers (Design, Manufacturing, & Engineering Applications): [Link](/publications/?topic=design)
+
+<br/>
+### Websites & Other Resources
+
+<br/>
 ### Research Projects
 
 <table>
