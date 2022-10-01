@@ -19,7 +19,7 @@ permalink: /lab/
 -->
 
 # About Us
-The Visual Intelligence Laboratory @ UVA (the "VIVA Lab") is a research group directed by Professor Stephen Baek at the University of Virginia School of Data Science. We tackle both fundamental and applied research problems in **geometric data analysis** to understand the roles of geometry in various scientific phenomena. Interested students, researchers, or any other individuals are always welcome to [contact us](mailto:baek@virginia.edu)!
+The Visual Intelligence Laboratory @ UVA (the "VIVA Lab") is a research group directed by Professor Stephen Baek at the University of Virginia School of Data Science. We tackle both fundamental and applied research problems in **geometric data analysis** to understand the roles of geometry in various scientific phenomena. Interested students, researchers, or any other individuals are always welcome to [contact us](/contact)!
 
 <br/>&nbsp;
 
