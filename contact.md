@@ -6,7 +6,7 @@ permalink: /contact/
 ---
 
 # Non-UVA Students: Applying for Ph.D. or Master's?
-Please understand that I do not receive graduate program applications directly. Thankfully, many students contact me with their CVs and transcripts, seeking for an open position in my group. But the chance is, unless you have already been admitted to UVA (see below if that's the case), you won't be hearing from me most likely. I simply receive too many application emails and, although I'm truely grateful for their interest, I cannot respond to each and every one of them.
+Please understand that **I do not accept Master's or Ph.D. applications directly.** Thankfully, many students contact me with their CVs and transcripts, seeking for an open position in my group. But the chance is, unless you have already been admitted to UVA (see below if that's the case), you won't be hearing from me most likely. I simply receive too many application emails and, although I'm truely grateful for their interest, I cannot respond to each and every one of them.
 
 Instead, you should apply through the [UVA official admission website](https://applycentral.virginia.edu/apply/). University of Virginia has an excellent process to select best students (like you!) from around the world. Once you are officially admitted, we can talk about research positions, scholarships, and etc. When you apply, please feel free to mention my name in your personal statement, with a clear explanation of why and how I can be of help for your research and your future career.
 
