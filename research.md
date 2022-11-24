@@ -10,7 +10,7 @@ permalink: /research/
 
 ![](/assets/publications/chun2020gan.gif)
 
-Shapes play a critical role in physics. Microstructural morphology determines mechano-chemical behavior of a material; aerodynamics of a vehicle is affected by the curves of the car silhouette; certain nano-scale surface texture patterns can make the surface repel or absorb liquids; just to list a few. In the Visual Intelligence Laboratory, we are interested in discovering linkages between shapes and various physical phenomena using the tools of computational differential geometry, computer vision, and machine learning.
+Shapes play a critical role in physics. Microstructural morphology determines the mechano-chemical behavior of a material; the aerodynamics of a vehicle is affected by the curves of the car silhouette; certain nano-scale surface texture patterns can make the surface repel or absorb liquids; just to list a few. In the Visual Intelligence Laboratory, we are interested in discovering linkages between shapes and various physical phenomena using the tools of computational differential geometry, computer vision, and machine learning.
 
 
 <br/>
@@ -48,19 +48,19 @@ Shapes play a critical role in physics. Microstructural morphology determines me
 <tr><td width="180">Funding Source</td><td>National Aeronautics and Space Administration (NASA)</td></tr>
 <tr><td width="180">Period</td><td>07/2020-06/2023</td></tr>
 <tr><td width="180">Role</td><td>Co-Investigator (PI: Gregory Howes)</td></tr>
-<tr><td width="180">Description</td><td>The goal of this project is to understand physics of collisionless heliospheric shocks by analyzing patterns from space experiments and simulations using convolutional neural networks.</td></tr>
+<tr><td width="180">Description</td><td>The goal of this project is to understand the physics of collisionless heliospheric shocks by analyzing patterns from space experiments and simulations using convolutional neural networks.</td></tr>
 </table>
 
 <br/>
 
 <table>
 <tr>
-  <td colspan="2"><b>Integrating multiscale modeling and experiments to develop a meso-informed predictive capability for explosivessafety and performance ($7.5M)</b></td>
+  <td colspan="2"><b>Integrating multiscale modeling and experiments to develop a meso-informed predictive capability for explosives safety and performance ($7.5M)</b></td>
 </tr>
 <tr><td width="180">Funding Source</td><td>U.S. Air Force Office of Scientific Research Multidisciplinary University Research Initiative Program</td></tr>
 <tr><td width="180">Period</td><td>06/2019-05/2024</td></tr>
 <tr><td width="180">Role</td><td>Co-Investigator (PI: Thomas Sewell)</td></tr>
-<tr><td width="180">Description</td><td>The goal of this project is to develop machine learning capacities to predict safety and performance characteristics of explosives.</td></tr>
+<tr><td width="180">Description</td><td>The goal of this project is to develop machine learning capacities to predict the safety and performance characteristics of explosives.</td></tr>
 </table>
 
 <br/>
@@ -84,20 +84,20 @@ Shapes play a critical role in physics. Microstructural morphology determines me
 ![](/projects/shape-matters/img/graphAE.png)
 
 
-Convolutional neural networks (CNN) have demonstrated an unprecedented success in a variety of visual cognition tasks.
+Convolutional neural networks (CNN) have demonstrated unprecedented success in a variety of visual cognition tasks.
 Such a success, however, has been concentrated in mostly computer vision and image/signal processing applications,
 where one can enjoy a nice, grid-like structure of the data set (signal=1D grid of amplitudes, image=2D grid of pixel values, and such).
 Meanwhile, there is a large number of problems that could not benefit much from such powerful CNNs due to the non-Euclidean nature of the data set. 
 For instance, graphical models, such as computer graphics objects or computer-aided design (CAD) parts, 
 often exist as a boundary representation (B-rep) model in which the geometry of the model is represented by a thin, arbitrary-shaped boundary surface
-(2D manifold), rather than a grid-like representation. Hence, there is no canonical way of representing such data in a tensor format as expected by CNNs and, thus, the standard CNNs cannot analyze such data. Point clouds from 3D scanners or LiDAR systems, graphs from social network data, molecular structures of pharmaceutical compounds, protein foldings, and many other non-image type geometric data fall into this category. At the Visual Intelligence Laboratory, we aim to develop mathematical foundations and scalable algorithms to expand CNNs to a variety of different geometric domains. Many scientific studies may benefit from such new capability, including computer-aided design and manufacturing (CAD/CAM), computer graphics, 3D sensing systems on autonomous vehicles, the brain mapping problem in neuroscience, and computational mechanics, just to list a few.
+(2D manifold), rather than a grid-like representation. Hence, there is no canonical way of representing such data in a tensor format as expected by CNNs and, thus, the standard CNNs cannot analyze such data. Point clouds from 3D scanners or LiDAR systems, graphs from social network data, molecular structures of pharmaceutical compounds, protein foldings, and many other non-image-type geometric data fall into this category. At the Visual Intelligence Laboratory, we aim to develop mathematical foundations and scalable algorithms to expand CNNs to a variety of different geometric domains. Many scientific studies may benefit from such new capabilities, including computer-aided design and manufacturing (CAD/CAM), computer graphics, 3D sensing systems on autonomous vehicles, the brain mapping problem in neuroscience, and computational mechanics, just to list a few.
 
 
 <!--It is hardly a stretch of logic to say many problems in science and engineering begin with reasoning of shapes. We are interested in teaching a computer such “geometric reasoning,” like what human designers and engineers would do when they solve a real-world problem. With an advanced machine cognition, designers and engineers will be able to focus more of their time and power on innovation and better design solutions. Furthermore, we could also learn complex patterns around geometric data that are beyond our cognitive capacity.-->
 
 <br/>
 ## Websites & Other Resources
-- Shape Matters: Evidences from Machine Learning on Body Shape-Income Relationship - [Project Page](/projects/shape-matters/)
+- Shape Matters: Evidence from Machine Learning on Body Shape-Income Relationship - [Project Page](/projects/shape-matters/)
 - ZerNet: Zernike Convolutional Neural Networks - [Project Page](/projects/zernet/)
 
 <!-- <table>
@@ -117,9 +117,9 @@ often exist as a boundary representation (B-rep) model in which the geometry of 
 ![](/assets/other/invehicle.png)
 
 People produce a variety of visual cues both consciously and unconsciously. These visual cues include facial expressions, eye movements, body gestures, motion, and such.
-When provided with a context, we can sense emotional and physical states of a person from these cues, such as joy, fatigue, anger, drowsiness, excitement, etc. For example, car companies these days are keen to integrate a technology to detect such visual cues into their advanced driver assistance systems (ADAS) to enhance safety and convenience.
-For another example, many studies report that patterns of a body motion are correlated and are thus indicative of the person's performance. Furthermore, sometimes, subtle changes in such motion patterns can be a precursor to a musculoskeltal injury or a similar kind of ergonomic hazard.
-Therefore, an accurate sensing and detection of such visual cues can become critical in many applications.
+When provided with a context, we can sense the emotional and physical states of a person from these cues, such as joy, fatigue, anger, drowsiness, excitement, etc. For example, car companies these days are keen to integrate technology to detect such visual cues into their advanced driver assistance systems (ADAS) to enhance safety and convenience.
+For another example, many studies report that patterns of body motion are correlated and are thus indicative of the person's performance. Furthermore, sometimes, subtle changes in such motion patterns can be a precursor to a musculoskeletal injury or a similar kind of ergonomic hazard.
+Therefore, accurate sensing and detection of such visual cues can become critical in many applications.
 The Visual Intelligence Laboratory is pioneering the research to detect and understand visual cues exhibited by people under different contexts such as driving, manufacturing, etc., by combining state-of-the-art computer vision technologies with their geometric data analysis expertise.
 
 
@@ -158,7 +158,7 @@ The Visual Intelligence Laboratory is pioneering the research to detect and unde
 <tr><td width="180">Funding Source</td><td>U.S. Department of Transportation Federal Highway Administration (FHWA) Exploratory Advanced Research Program</td></tr>
 <tr><td width="180">Period</td><td>10/2017-09/2019</td></tr>
 <tr><td width="180">Role</td><td>Co-Principal Investigator (PI: Daniel V. McGehee)</td></tr>
-<tr><td width="180">Description</td><td>The goal of this project is to develop virtual reality technologies for interactive simulation among subjects within different simulation environments in order to study the road user behaviors for enhancing road safety.</td></tr>
+<tr><td width="180">Description</td><td>The goal of this project is to develop virtual reality technologies for interactive simulation among subjects within different simulation environments to study road user behaviors for enhancing road safety.</td></tr>
 </table>
   
 <br/>&nbsp;<br/>&nbsp;<br/>&nbsp;
@@ -166,8 +166,8 @@ The Visual Intelligence Laboratory is pioneering the research to detect and unde
 # Medical Shape Analysis
 ![](/assets/other/tumor_features.png)
 
-By studying shapes and textures of medical images, it is possible to detect disease and predict clinical outcomes more accurately.
-To this end, we are interested in characterizing shapes and textures of diseases in medical images (X-rays, CT, PET, MRI, etc.) and correlate them with other clinical parameters.
+By studying the shapes and textures of medical images, it is possible to detect disease and predict clinical outcomes more accurately.
+To this end, we are interested in characterizing the shapes and textures of diseases in medical images (X-rays, CT, PET, MRI, etc.) and correlating them with other clinical parameters.
 
 
 ## Sponsored Projects

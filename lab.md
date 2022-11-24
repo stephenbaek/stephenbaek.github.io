@@ -51,7 +51,7 @@ I'm interested in theories and applications of computational geometry and machin
 <img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> phongnguyen (at) virginia (dot) edu<br/>
 
 ### Bio:
-My research interest is at the intersection of mechanical engineering and data science in which novel data-driven methods are proposed to solve engineering problems. My main areas of research include physics-informed machine learning, deep generative modeling, uncertainty quantification and robust design optimization, all for the application in materials and structure design.
+My research interest is at the intersection of mechanical engineering and data science in which novel data-driven methods are proposed to solve engineering problems. My main areas of research include physics-informed machine learning, deep generative modeling, uncertainty quantification and robust design optimization, all for the application in materials and structural design.
 
 [Google Scholar Citation Record](https://scholar.google.com/citations?user=dTI5u5wAAAAJ&hl=vi&inst=13751854044476728232)
 
@@ -77,7 +77,7 @@ My research interest is at the intersection of mechanical engineering and data s
 <img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> vwp4tr (at) virginia (dot) edu<br/>
 
 ### Bio:
-I am interested in machine-learning and deep-learning-based applications for solving real-life medical imaging problems. My current and previous research focuses on developing various state-of-the-art deep learning and medical imaging algorithms for segmentation and classification from various types medical image data, and to assist the clinicians in different tasks, including identifying the severity and cause of ophthalmic diseases, and identifying the boundaries of each instance neurons.
+I am interested in machine-learning and deep-learning-based applications for solving real-life medical imaging problems. My current and previous research focus on developing various state-of-the-art deep learning and medical imaging algorithms for segmentation and classification from various types of medical image data, and to assist clinicians in different tasks, including identifying the severity and cause of ophthalmic diseases and identifying the boundaries of each instance of neurons.
 
 [Google Scholar Citation Record](https://scholar.google.com/citations?user=KcPlRUwAAAAJ&hl=en)
 
@@ -96,7 +96,7 @@ I am interested in machine-learning and deep-learning-based applications for sol
 <img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [boogun-choi@uiowa.edu](mailto:boogun-choi@uiowa.edu)
 
 ### Bio:
-I am a Research Assistant at the Visual Intelligence Laboratory at the Center for Computer Aided Design (CCAD). I have received my B.S. degrees in Computer Science and Mathematics from the University of Iowa in 2016 with focus on the Computational Mathematics and Big Data. My research interest is in machine learning, differential geometry, and manifold theory. I am currently studying 3D human models, specifically methods for generating statistically realistic 3D human models.
+I am a Research Assistant at the Visual Intelligence Laboratory at the Center for Computer Aided Design (CCAD). I received my B.S. degrees in Computer Science and Mathematics from the University of Iowa in 2016 with a focus on Computational Mathematics and Big Data. My research interest is in machine learning, differential geometry, and manifold theory. I am currently studying 3D human models, specifically, methods for generating statistically realistic 3D human models.
 
 ### Education:
 - **B.S. Computer Science**, University of Iowa, 2016.
@@ -109,7 +109,7 @@ I am a Research Assistant at the Visual Intelligence Laboratory at the Center fo
 <img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> na3au (at) virginia (dot) edu<br/>
 
 ### Bio:
-I am interested in the intersection of computer vision and healthcare. My undergraduate background was based in Systems Engineering and my previous research includes the application of deep learning in medical imaging, active learning, and segmentation problems. Currently I am focused on applying learned 3D human models to generate realistic and pose-dependent shapes.
+I am interested in the intersection of computer vision and healthcare. My undergraduate background was based in Systems Engineering and my previous research includes the application of deep learning in medical imaging, active learning, and segmentation problems. Currently, I am focused on applying learned 3D human models to generate realistic and pose-dependent shapes.
 
 [Google Scholar Citation Record](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7KeqiVe6ZAV57t96q6Oo1a70NtP-WSEUIXDBG165nukoQ5dzE_gGXSoSOGdA7cOR7vpLQvB0-6724eT0LLobFNuu5iog&user=YFVnF9AAAAAJ)
 
@@ -127,7 +127,7 @@ I am interested in the intersection of computer vision and healthcare. My underg
 <img src="/assets/mail-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> jyw5hw (at) virginia (dot) edu<br/>
 
 ### Bio:
-I am currently a PhD student in the School of Data Science and am interested in researching the application of computer vision in sports analytics. I am currently a Double Hoo with my BA in Mathematical Statistics and MS in Data Science. My past research experience has included applying computer vision to medical imaging and NFL football plays. I hope to use computer vision to make sports more accessible and safer for everyone.
+I am currently a Ph.D. student in the School of Data Science and am interested in researching the application of computer vision in sports analytics. I am currently a Double Hoo with my BA in Mathematical Statistics and MS in Data Science. My past research experience has included applying computer vision to medical imaging and NFL football plays. I hope to use computer vision to make sports more accessible and safer for everyone.
 
 ### Education:
 - **Ph.D. Data Science**, University of Virginia, Charlottesville, VA, 2026 (Expected).
@@ -142,7 +142,7 @@ I am currently a PhD student in the School of Data Science and am interested in 
 <img src="/assets/web-20x20.png" style="display:inline;margin: 0 0 -4px 0;"> [https://chengxinlun.github.io/](https://chengxinlun.github.io/)<br/>
 
 ### Bio:
-I'm an astronomy PhD student in University of Virginia. Previously, I have worked on many areas of astronomy, including analysis and modelling stellar and galaxy dataset from large sky surveys. As an astronomist, I have also received a professional training in data science and I earned master of science in data science (MSDS) degree in Spring 2022 from UVA. I'm currently doing research on acceleration of quantum spin dynamics numerical simulation using physics-aware neural network with Professor Stephen Baek.
+I'm an astronomy Ph.D. student at the University of Virginia. Previously, I have worked in many areas of astronomy, including analysis and modeling stellar and galaxy datasets from large sky surveys. As an astronomist, I have also received professional training in data science and I earned a master of science in data science (MSDS) degree in Spring 2022 from UVA. I'm currently conducting research on the acceleration of quantum spin dynamics numerical simulation using a physics-aware neural network with Professor Stephen Baek.
 
 [Curriculum Vitae](https://chengxinlun.github.io/files/cv.pdf)<br/>
 
