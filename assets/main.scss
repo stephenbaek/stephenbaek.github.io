@@ -1,0 +1,62 @@
+---
+# front matter required for Jekyll to process SCSS
+---
+
+@import 'tale';
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 24px;
+  margin-top: 20px;
+}
+
+.team-card {
+  text-align: center;
+  padding: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.team-card:hover {
+  transform: translateY(-4px);
+}
+
+.team-card img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.team-name {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.team-role {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.team-affiliation {
+  font-size: 0.85rem;
+  color: #999;
+}
+
+.profile-links {
+  margin-top: 8px;
+}
+
+.profile-links a {
+  margin: 0 6px;
+  color: #666;
+  font-size: 0.95rem;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.profile-links a:hover {
+  color: #000;
+  transform: translateY(-1px);
+  text-decoration: none;
+}

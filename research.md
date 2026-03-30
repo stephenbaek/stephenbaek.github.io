@@ -8,7 +8,7 @@ permalink: /research/
 
 # Physics of Shapes
 
-![](/assets/publications/chun2020gan.gif)
+![](/assets/publications/chun2020microstructure.gif)
 
 Shapes play a critical role in physics. Microstructural morphology determines the mechano-chemical behavior of a material; the aerodynamics of a vehicle is affected by the curves of the car silhouette; certain nano-scale surface texture patterns can make the surface repel or absorb liquids; just to list a few. In the Visual Intelligence Laboratory, we are interested in discovering linkages between shapes and various physical phenomena using the tools of computational differential geometry, computer vision, and machine learning.
 
